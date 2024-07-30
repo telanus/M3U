@@ -1,0 +1,12 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="eNews Channel Africa.za" tvg-logo="https://i.ibb.co/HGkzmth/enews.png" group-title="News;RSA",eNews Channel Africa (720p)
+http://185.59.221.131:8081/live/enca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="e.TV HD.za" tvg-logo="https://etv-mr.videoready.tv/videoready/etv/image/fetch/f_auto,fl_lossy,q_100,h_220,w_auto/https://d2umpap7mmclxt.cloudfront.net/content/1718792314603-e.tvRGB.png" group-title="Entertainment;RSA",e-TV [Not24/7][5PM-10PM]
+https://7fa7339416d2451e9b1b3e66de0393bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/4ce0d7e1802b0fac6a0a747c81f2780694495b61/PROD_ETV_LIVE_PREROLL/16a8b79a-5b91-450a-86d1-635c2e2a76fa/0.m3u8
+
+#EXTINF:-1 tvg-id="eExtra HD.za" tvg-logo="https://etv-mr.videoready.tv/videoready/etv/image/fetch/f_auto,fl_lossy,q_100,h_220,w_auto/https://d2umpap7mmclxt.cloudfront.net/content/1718792349200-eExtraWEBBLACKTEXT_Artboard1.png" group-title="Entertainment;RSA",eExtra [Not24/7][5PM-10PM]
+https://b8f04a4bb2ea472ca56507515529135d.mediatailor.us-east-1.amazonaws.com/v1/manifest/4ce0d7e1802b0fac6a0a747c81f2780694495b61/PROD_eExtra_LIVE_PREROLL/19de2f65-1fe3-47ce-874a-7abd4baa978b/1.m3u8
+
+#EXTINF:-1 tvg-id="3.za" tvg-logo="https://etv-mr.videoready.tv/videoready/etv/image/fetch/f_auto,fl_lossy,q_100,h_220,w_auto/https://d2umpap7mmclxt.cloudfront.net/content/1717572020354-OUTflixPROUD_Logo_Color_1080x1080.png" group-title="Entertainment;RSA",OutTV Proud (RSA)
+https://outtvproud-emedia.amagi.tv/480p-cc/index.m3u8
