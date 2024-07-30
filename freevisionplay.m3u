@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment;RSA",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="1 KZN.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;RSA",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FAITH.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Entertainment;RSA;Religious",Faith TV
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Cape Town TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment;RSA",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Soweto TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment;RSA",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist_b480000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News;Entertainment;RSA",TV BRICS English
+https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+
