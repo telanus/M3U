@@ -17,3 +17,41 @@ https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist_b480000.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News;Entertainment;RSA",TV BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News;Entertainment;RSA",TV BRICS South Africa
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AfrolandBE.za"tvg-logo="" group-title="Entertainment;RSA",Afroland Black Experience
+https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
+
+#EXTINF:-1 tvg-id="AfrolandComedy.za"tvg-logo="" group-title="Entertainment;RSA",Afroland Comedy
+https://ov.ottera.tv/channels/alt_com/master2300000.m3u8;session=alt_com
+
+#EXTINF:-1 tvg-id="AfrolandRomance.za"tvg-logo="" group-title="Entertainment;RSA;Religious",Afroland Romance
+https://ov.ottera.tv/channels/alt_rom/master2300000.m3u8;session=alt_rom
+
+#EXTINF:-1 tvg-id="AfrolandCrime.za" tvg-logo="" group-title="Entertainment;RSA",Afroland Crime
+https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
+
+#EXTINF:-1 tvg-id="Afrokiddos.za" tvg-logo="" group-title="Entertainment;RSA;Kids",Afrokiddos
+https://alt-ak-freevision.otteravision.com/alt/ak/ak_720p.m3u8
+
+#EXTINF:-1 tvg-id="Afroland Drama" tvg-logo="" group-title="News;Entertainment;RSA",Afroland Drama
+https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
+
+#EXTINF:-1 tvg-id="AfrolandNollywood.za"tvg-logo="" group-title="Entertainment;RSA",Afroland Nollywood
+https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
+
+#EXTINF:-1 tvg-id="AfrolandTV.za"tvg-logo="" group-title="Entertainment;RSA",Afroland TV
+https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
+
+#EXTINF:-1 tvg-id="JitTV.za" tvg-logo="https://ibb.co/nznrXNy" group-title="Entertainment;RSA;",Jit TV
+https://senth3ta.cdn.mangomolo.com/jt/smil:jittv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="News1.za" tvg-logo="" group-title="News;RSA",News 1
+https://cdn.freevisiontv.co.za/bgnews/smil:bgsrt.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MpumaKapaTV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment;RSA",Mpuma Kapa TV
+https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66fba2e9d9.png" group-title="Sport;RSA",Sport 1
+https://senth3ta.cdn.mangomolo.com/bgsp/smil:bgsport.stream.smil/chunklist.m3u8
