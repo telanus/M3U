@@ -3,37 +3,34 @@
 #EXTINF:-1 tvg-id="SABCSport.za" tvg-id="" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC1.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
+#EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC2.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
+#EXTINF:-1 tvg-id="SABC 2 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC3.za" tvg-id="" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
+#EXTINF:-1 tvg-id="SABC 3 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
+#EXTINF:-1 tvg-id="SABC News.za" tvg-id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",ITV2
+#EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="Entertainment",ITV2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Channel4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" group-title="Entertainment",Channel4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
-#EXTINF:-1 tvg-id="StarTrek.us@SD" group-title="Entertainment",Star Trek
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643ea768e0789d0008548886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2962-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d491b1b5-034d-44e2-b45a-989c3dcd68d8
-
-#EXTINF:-1 tvg-id="BVN.nl@SD" group-title="Entertainment",BVN
+#EXTINF:-1 tvg-id="BVN.nl" group-title="Entertainment",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 
-#EXTINF:-1 tvg-id="RTVOost.nl" group-title="Entertainment",RTV Oost (720p)
+#EXTINF:-1 tvg-id="RTV.Oost.nl" group-title="Entertainment",RTV Oost (720p)
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCTVPlusMelbourne.au" tvg-logo="https://i.ibb.co/VpLpMw5/images.jpg"  group-title="Entertainment" ,ABC TV Melbourne (720p)
+#EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://i.ibb.co/VpLpMw5/images.jpg" group-title="Entertainment",ABC TV Melbourne (720p)
 https://c.mjh.nz/abc-vic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
@@ -54,119 +51,119 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Documentary English" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary English
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tennis.uk" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
+#EXTINF:-1 tvg-id="UK:.Tennis.Channel.en" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
 
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY SD" group-title="News",ABC (WABC) New York, NY SD
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY SD" group-title="News",ABC (WABC) New York, NY SD
 https://tvpass.org/live/WABCDT1/sd
 
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" group-title="Documentaries",Animal Planet US East SD
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet US East SD" group-title="Documentaries",Animal Planet US East SD
 https://tvpass.org/live/AnimalPlanetEast/sd
 
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY SD" group-title="News",CBS (WCBS) New York, NY SD
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS (WCBS) New York, NY SD" group-title="News",CBS (WCBS) New York, NY SD
 https://tvpass.org/live/WCBSDT1/sd
 
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="Sport",CBS Sports Network USA SD
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network USA SD" group-title="Sport",CBS Sports Network USA SD
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="Cartoons",Disney Junior USA East SD
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA East SD" group-title="Cartoons",Disney Junior USA East SD
 https://tvpass.org/live/DisneyJuniorEast/sd
 
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="Entertainment",Disney Eastern Feed SD
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Eastern Feed SD" group-title="Entertainment",Disney Eastern Feed SD
 https://tvpass.org/live/DisneyChannelEast/sd
 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Sport",ESPN SD
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN SD" group-title="Sport",ESPN SD
 https://tvpass.org/live/ESPN/sd
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Sport",ESPN2 SD
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 SD" group-title="Sport",ESPN2 SD
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="News",FOX (WNYW) New York, NY SD
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY SD" group-title="News",FOX (WNYW) New York, NY SD
 https://tvpass.org/live/WNYWDT1/sd
 
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed SD" group-title="Entertainment",Food Network USA Eastern Feed SD
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="Food Network USA Eastern Feed SD" group-title="Entertainment",Food Network USA Eastern Feed SD
 https://tvpass.org/live/FoodNetworkEast/sd
 
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Sport",Fox Sports 1 SD
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 SD" group-title="Sport",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/sd
 
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="Sport",Fox Sports 2 SD
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2 SD" group-title="Sport",Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/sd
 
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Entertainment",FX Movie Channel SD
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel SD" group-title="Entertainment",FX Movie Channel SD
 https://tvpass.org/live/FXMovieChannel/sd
 
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast SD" group-title="Entertainment",FX Networks East Coast SD
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX Networks East Coast SD" group-title="Entertainment",FX Networks East Coast SD
 https://tvpass.org/live/FXEast/sd
 
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern SD" group-title="Entertainment",FXX USA Eastern SD
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX USA Eastern SD" group-title="Entertainment",FXX USA Eastern SD
 https://tvpass.org/live/FXXEast/sd
 
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="Sport",Golf Channel USA SD
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel USA SD" group-title="Sport",Golf Channel USA SD
 https://tvpass.org/live/GolfChannel/sd
 
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed SD" group-title="Entertainment",HGTV USA Eastern Feed SD
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-name="HGTV USA Eastern Feed SD" group-title="Entertainment",HGTV USA Eastern Feed SD
 https://tvpass.org/live/HGTVEast/sd
 
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed SD" group-title="Entertainment",ION Eastern Feed SD
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-name="ION Eastern Feed SD" group-title="Entertainment",ION Eastern Feed SD
 https://tvpass.org/live/IONTVEast/sd
 
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Cartoons",MeTV Toons (WJLP2) New Jersey SD
+#EXTINF:-1 tvg-id="MeTV.Toons.us" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Cartoons",MeTV Toons (WJLP2) New Jersey SD
 https://tvpass.org/live/metv-toons/sd
 
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York SD" group-title="Cartoons",MeTV Wjlp New Jerseynew York SD
+#EXTINF:-1 tvg-id="MeTV.WJLP.New.York,.NY.us" tvg-name="MeTV Wjlp New Jerseynew York SD" group-title="Cartoons",MeTV Wjlp New Jerseynew York SD
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Documentaries",National Geographic US Eastern SD
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic US Eastern SD" group-title="Documentaries",National Geographic US Eastern SD
 https://tvpass.org/live/NationalGeographicEast/sd
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Documentaries",National Geographic Wild SD
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="National Geographic Wild SD" group-title="Documentaries",National Geographic Wild SD
 https://tvpass.org/live/NationalGeographicWildEast/sd
 
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY SD
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY SD
 https://tvpass.org/live/WNBCDT1/sd
 
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" group-title="Sport",NBC Sports Bay Area SD
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-name="NBC Sports Bay Area SD" group-title="Sport",NBC Sports Bay Area SD
 https://tvpass.org/live/nbc-sports-bay-area/sd
 
-#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD" group-title="Sport",NBC Sports Boston SD
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-name="NBC Sports Boston SD" group-title="Sport",NBC Sports Boston SD
 https://tvpass.org/live/nbc-sports-boston/sd
 
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="Sport",NBC Sports California SD
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-name="NBC Sports California SD" group-title="Sport",NBC Sports California SD
 https://tvpass.org/live/nbc-sports-california/sd
 
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" group-title="Sport",NBC Sports Philadelphia SD
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC Sports Philadelphia SD" group-title="Sport",NBC Sports Philadelphia SD
 https://tvpass.org/live/nbc-sports-philadelphia/sd
 
-#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network SD" group-title="Sport",New England Sports Network SD
+#EXTINF:-1 tvg-id="New.England.Sports.Network.us" tvg-name="New England Sports Network SD" group-title="Sport",New England Sports Network SD
 https://tvpass.org/live/new-england-sports-network/sd
 
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY SD
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY SD
 https://tvpass.org/live/WNET/sd
 
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast SD" group-title="Sport",SNY Sportsnet New York Comcast SD
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SNY Sportsnet New York Comcast SD" group-title="Sport",SNY Sportsnet New York Comcast SD
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed SD" group-title="Entertainment",Syfy Eastern Feed SD
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="Syfy Eastern Feed SD" group-title="Entertainment",Syfy Eastern Feed SD
 https://tvpass.org/live/SyfyEast/sd
 
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="Sport",The Tennis Channel SD
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-name="The Tennis Channel SD" group-title="Sport",The Tennis Channel SD
 https://tvpass.org/live/TennisChannel/sd
 
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Sport",TSN1 SD
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1 SD" group-title="Sport",TSN1 SD
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="Sport,TSN2 SD
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2 SD" group-title="Sport,TSN2 SD
 https://tvpass.org/live/tsn2/sd
 
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="Sport",TSN3 SD
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3 SD" group-title="Sport",TSN3 SD
 https://tvpass.org/live/tsn3/sd
 
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="Sport",TSN4 SD
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4 SD" group-title="Sport",TSN4 SD
 https://tvpass.org/live/tsn4/sd
 
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="Sport",TSN5 SD
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5 SD" group-title="Sport",TSN5 SD
 https://tvpass.org/live/tsn5/sd
 
-#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION) SD
+#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION) SD
 https://tvpass.org/live/WPIX/sd
