@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SABCSport.za" tvg-id="" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
+#EXTINF:-1 tvg-id="SABCSport.za;SABCSport.za;sabcsport.za" tvg-id="" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
+#EXTINF:-1 tvg-id="SABC 1 HD.za;SABC1.za;sabc1.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="SABC 2 HD.za;SABC2.za;sabc2.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
