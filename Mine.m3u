@@ -6,7 +6,7 @@ https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b55
 #EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC 2 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
+#EXTINF:-1 tvg-id="SABC 2 HD.za;SABC2.za;sabc2.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="SABC 3 HD.za" tvg-id="" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
@@ -15,7 +15,7 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="SABC News.za" tvg-id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="News",CCTV4
+#EXTINF:-1 tvg-id="cctv4.uk" group-title="News",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="Entertainment",ITV2
@@ -32,6 +32,39 @@ https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://i.ibb.co/VpLpMw5/images.jpg" group-title="Entertainment",ABC TV Melbourne (720p)
 https://c.mjh.nz/abc-vic.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sport",BeIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashiontv.za" group-title="Fasion",Fashion TV
+https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_sftv2_gp6_43313_default_1462_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us@East" group-title="Entertainment",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="News",France 24 (720p)
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinevault80s.us" group-title="Entertainment",Cinevault 80s
+https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
+
+#EXTINF:-1 tvg-id="Cinevaultclassics.us" group-title="Entertainment",Cinevault Classics
+https://apollo.production-public.tubi.io/live/ac-cinevault-classics.m3u8
+
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" group-title="Entertainment",Cinevault Westerns
+https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate1.m3u8
@@ -53,6 +86,21 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Tennis.Channel.en" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us" group-title="Sport",NFL
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" group-title="Sport",NHL
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
+#EXTINF:-1 tvg-id="NHRATV.us" group-title="Sport",NHRA TV
+https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
+
+#EXTINF:-1 tvg-id="Kiddo.us" group-title="Cartoons",Kiddo+
+https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" group-title="Cartoons",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY SD" group-title="News",ABC (WABC) New York, NY SD
 https://tvpass.org/live/WABCDT1/sd
@@ -174,13 +222,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 tvg-ig="Arirang.World.kr" tvg-logo="https://i.ibb.co/vDV6tqN/araing.png" group-title="Documentaries",Arirang Korea
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_sleng.m3u8
 
-#EXTINF:-1 tvg-id="BBC.Earth.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" tvg-chno="3560" group-title="Entertainment" , BBC Earth
+#EXTINF:-1 tvg-id="BBC.Earth.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" tvg-chno="3560" group-title="Documentaries" , BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
 
-#EXTINF:-1 channel-id="pluto-5fb5844bf5514d0007945bda" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://i.ibb.co/8rsLBXj/bbchome.jpg" tvg-chno="3490" group-title="Entertainment" , BBC Food
+#EXTINF:-1 channel-id="pluto-5fb5844bf5514d0007945bda" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://i.ibb.co/8rsLBXj/bbchome.jpg" tvg-chno="3490" group-title="Documentaries" , BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
 
-#EXTINF:-1 channel-id="pluto-5fb5836fe745b600070fc743" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://i.ibb.co/8rsLBXj/bbchome.jpg" group-title="Entertainment" , BBC Home & Garden
+#EXTINF:-1 channel-id="pluto-5fb5836fe745b600070fc743" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://i.ibb.co/8rsLBXj/bbchome.jpg" group-title="Documentaries" , BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News (720p)
@@ -255,7 +303,7 @@ https://outtvproud-emedia.amagi.tv/480p-cc/index.m3u8
 #EXTINF:-1 channel-id="pluto-5b4fc274694c027be6ed3eea" tvg-id="5b4fc274694c027be6ed3eea" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" tvg-chno="880" group-title="Entertainment" , Pluto TV Sci-Fi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ed62db1c-5556-4fa7-b231-9514fcc69832
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Red Bull TV
+#EXTINF:-1 tvg-id="" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht (480p)
