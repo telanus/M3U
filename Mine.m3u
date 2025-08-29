@@ -36,7 +36,7 @@ https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sport",BeIN Sports XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fashiontv.za" group-title="Fasion",Fashion TV
+#EXTINF:-1 tvg-id="fashiontv.za" group-title="Fashion",Fashion TV
 https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_sftv2_gp6_43313_default_1462_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Action
@@ -357,7 +357,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 group-title="Automotive",Speedvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mtv-us.png" group-title="Music;US",MTV Pluto
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mtv-us.png" group-title="Music",MTV Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Cartoons",Anime All Day
