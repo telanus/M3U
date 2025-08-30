@@ -76,7 +76,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="UK:.CGTN.Documentary.en" group-title="Documentaries",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
 
-#EXTINF:-1 tvg-id="Revry.distro" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry Queer
+#EXTINF:-1 tvg-id="Revry.distro" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet US East SD" group-title="Documentaries",Animal Planet US
@@ -271,9 +271,6 @@ https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 #EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://i.ibb.co/VpLpMw5/images.jpg" group-title="Entertainment",ABC TV Melbourne (720p)
 https://c.mjh.nz/abc-vic.m3u8
 
-#EXTINF:-1 tvg-id="Revry2.us" group-title="Entertainment",Revry 2 (US)
-https://linear-5.frequency.stream/dist/galxy/5/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel SD" group-title="Entertainment",FX Movie Channel SD
 https://tvpass.org/live/FXMovieChannel/sd
 
@@ -370,7 +367,7 @@ https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="Revry.Plex" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Entertainment",Revry
+#EXTINF:-1 tvg-id="Revry.Plex" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Entertainment",Revry (RSA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9/variant.m3u8?x-plex-token=maL3nY3Ahs4kJQziWyzh&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_2811ac8c-1ac5-42d7-a1eb-d6101a488119&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756590226&url=07905d42fce26049bf4fcff5b7ef3e4b-f2c2760f79b90c09aa74059e599453372cfe43f1267489f8d11f2291f35e28549d5d71c8bad59d3de8bbf95abb9b9d1aef0453fa26fbfcf814ea4cbe752f90121e75b0163fd1c875d865ae4c385df2ddfa7a1001e61ee89d35b1829c9ab1c0f69fee9edbac9aebb842b8cfbad78cc09c0e79e60abc2f2c34dc3e5844f4bccbeb8c7b3af056392892c504c7d99cec266fa1a91b67e2a003fc742606cbc23e7b780ff153914cc81fcfc0581cf92ade0af29c619d43e843b4d4b315b5c60d724ad418e51ce9fe33a610851cdf7ac1d9fca4
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment",Farscape
