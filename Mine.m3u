@@ -171,7 +171,7 @@ https://tvpass.org/live/TennisChannel/sd
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1 SD" group-title="Sport",TSN1 SD
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2 SD" group-title="Sport,TSN2 SD
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2 SD" group-title="Sport",TSN2 SD
 https://tvpass.org/live/tsn2/sd
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3 SD" group-title="Sport",TSN3 SD
