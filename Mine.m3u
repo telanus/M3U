@@ -32,38 +32,56 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
 https://livetv-fa.tubi.video/abc-news/index.m3u8
 
-#EXTINF:-1 tvg-id="FRANCE24.au" group-title="News",France 24
+#EXTINF:-1 tvg-id="UK:.France.24.FAST.English.be" group-title="News",France 24
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_147fd819-2499-49a7-ba0e-3be454cd6e21&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621809&url=888c939043d13a1b5d92995662b8ec20-6aea575adf85bb588f1d238ca2e66067d1f18b6de15c6ab0d17ae2e6412e08dc65887f0a413cbdadaba19487352bb5c0004d0edd1e1c110504dc96011401bbeff66dc89557589ca04e341a20017f93c3fa616c6f686218551900d88f417d70b38abdd92f9a13f552259d51aebfc7a0edc8ebe0cab357cd92e448d24873a819f145bc6870af1beb210c639be67f40a48a5a85796365c71f0b56369c7e8a43223a1126f6c97c765459c11d2ed564ad69ef1e08d9713a24137723045c5abca44ce4abe73a1ae3fa6e0e66ea52dba806fcb828a058810162f6ede96399b465d49bcf9ed8a4ed873d2c5c07b9c63b06e0f6513dc84d3a8c405137f8c122ab197b88184ff1b2243a3ef52993e60305faad48cbcf0be3fd3e70c03deb80e9ec652178be07ddc3aac25a6f4a88587f9168a2bff38b0b94407a9149969b67ba814e158cc5e67b095013cbd747c20c10d0efc3a7e9574c0bcb72f4e99cbe58b28f7c1d184df8dc1553f4b55e993ebc31df8a15e224b0a6de32c6e6f26e48decad5eb2bf0cb99083c62cb728feb9e3b4fb7b89f161f5dda44d9c2cfef8cee7c78ec1b1e3b7b8744e897ed2e9b385e5b528c04a88a0a15cf0272eb02fabfd34e599f18313dc20e9a2c39e33c2535695bce10446a01123d6652f0afd418a85cac667b3075a44d962dfe3c6226efa52f0fe779bb33e27c3c0921557e57dd809a4c8668b13dc39b57912f3f314b9035b2decc38d61c4cd6e417ce4d6e12f981e7db21858c1142829bbf6b74b67a8e320d62767eeb74bf3c704914e332a4b7f3305b02630033de604ccc7df2a27f703dd8908e943a9e4605eb82d47eae88c072d4059e22b96231ad77c9b992df28d921a024a2f1c7c8b6c88a5a5c0b691ddd5f0a020c75dc2285ff614673297e2ce10df3ad847277f59b24d68cf6f4cb4a6d110a72b04bfa5a13f55c61867446e93154c33ce7676e21d62318ac33e5e2ce5433f0dfb240f8ae5cfd70c2a3429a6372628e54752d93fbf8ce5cd2acb53894b89f5fb6810dadeddab74b596a4f23cd0c04b30935331b5e57660a7c2904959ad6874583e4e6df453e7af6d7553f95b8048391eac78293acf6fc19fb943e00b5d5b03c780aecd0daa82a39e8c449494a54cde2c55d0257df4e7a316aa9da94fc1270379518d1c0cf2e172da907173adf2fc3529ab3d1bfe278e50118bcd1f4003c8ff52959bb6cd3108b6be82a2c58e51a8ac9f4c7be417bf5da12ae8a8e83d54698b67ec10c6f30e770530aa49e71e56ec08b9467267584d052ed5262aaaae827eb703692bdda8a7b2a0941b21633b05b9f43a7c450f4f6f63cf2af10ec01add04a28472730a850a2d9a6d6c34b02106ab670e1681d477752149b2fb134755efaf981899c4188549191d2904d500b4d371f50c10bb27ec5a42aba81a21909b007a8f70e3f4c6c1f5f0fa2d66ed2defa7eefaf070b3206e6ee030efab07c4e80dd75bff0f8940bb00b1faa0378893207f3a875997a86ae1095d553171c12e4e844e5398b164fee8f9ac7747e0d0ab9d5fbed7c6c2204e65904d41ff687a6f0e9f35b718b52aa9c50e873d073bd24e64fe88be81cd3066cd6d7b1d3ede1903bc1f6e8c67612a97d5990056c33263c4dc0ea2bf58859befae13a907b9c51d9b549542f3925e8f0b859c32275781fc43340a9495a404bb720d2e6ec19887b98a05c4308094c936e34c9830555f21750a23d3c3a33c840f9a8d42ac0a69b2e24ed58a3e2b965922cbc74036694c3bd9aac694b43dbcc11da4d03407a9901f50806541838e1444ae0c7ca86a1280e7b37b5536be50e00cc21e7e3771adecfdcda3c04259b629d926a45abb962e92bd888fbf1e56ff71220f137c7bc8252c69b95bc6b2e92835420cefebda29c34198b33862d2dfe100368ad6764341eaa12612333ada6cdab34f60ea5749fa6ea49dc1d0e4d470ad5548543074667a82a619082785e3aef4facd33f2914ca6d88f12936a8a9eec30257296c3729c8024b52f292fdcceed29efb526e2a7bd0138c5198e96721be5d46e52d7f5968576c1cf1f289be01aed7f45d448058f1860191be071eff99e15b8bf3ac98401d9b7543e7cd31125e35fa12e48dc7b3e96a22d98a4a75262b25928c99f0d32882c289bef8f4119a4669f0079d695219488457794a2fbd20ce4cb05df2e8022881310c77702a9e59e39068dab00f1ee2218e444b3b711d09fe4362b9d8a11f9f672f6db8b7a9a720e1e03cd7d801b93f9d3ed7909f07aa424feb539b705a808e3bd14fe6a2e985d4393fc544d0540446c8ac1b39175e6bdf90a80f53de8b86e56a057a66ab8d821390e485077bfcdea79b299e6a1885a5143a24bac4cc1c8ee016bcad5247ea09498196a245be302f238d1881b1a05d296549bee6c718ead09fdd2cf0e65231756d760234989767b8f04525dead304652ba0738b4067d39e5d73db1feeab26e4597d26f9cc28e33b7f62d28a1a06a910c0755e43d611a2f73d704e3a943b47ff1f822eec62602b35d91a3cd34f4865e0d35bd8eec189252d5be628080dcc6b2c22bff594aedd2b26d0d593576d1e45d6054c07773e85b8eec2928b3bd9be9514412c4b44c829130a07bea96458dbdd85e78019ef358906e17d64914901052f0e486f0ff88d3cdae570dab62c485440ab6e1b3fe7a261a638aaadee223c46f09ab04732a6706f2b47d389a8e545cfcac8a141d38e2d14a17da8993d09e8a7df6f8e9ee9d15702d3cf0923095a13b84c09c90e54ae29a84f1a62fd9b5cfeda0bc0507a0c56b1bfa458c98445e9e26e877635b6c80c19d0b77a32ca3f43a
 
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY SD" group-title="News",ABC (WABC) New York, NY SD
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" group-title="News",ABC (KABC) Los Angeles
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" group-title="News",CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" group-title="News",CW (KFMB-TV2) San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" group-title="News",CW (WDCW) District of Columbia SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="News",ABC (WABC) New York, NY
 https://tvpass.org/live/WABCDT1/sd
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS (WCBS) New York, NY SD" group-title="News",CBS (WCBS) New York, NY SD
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" group-title="News",CBS (WCBS) New York, NY
 https://tvpass.org/live/WCBSDT1/sd
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY SD" group-title="News",FOX (WNYW) New York, NY SD
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" ,FOX (WNYW) New York, NY
 https://tvpass.org/live/WNYWDT1/sd
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY SD
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY
 https://tvpass.org/live/WNBCDT1/sd
 
-#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY SD
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY
 https://tvpass.org/live/WNET/sd
 
-#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION) SD
+#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION)
 https://tvpass.org/live/WPIX/sd
 
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News (720p)
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="News" , CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
 
-#EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht (480p)
+#EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht
 https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" group-title="News",Bloomberg TV USA SD
+https://tvpass.org/live/BloombergTV/sd
+
+#EXTINF:-1 tvg-id="cnn" group-title="News",CNN US
+https://tvpass.org/live/CNN/sd
 
 # Documentaries
 
@@ -114,6 +132,21 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe
 
 #EXTINF:-1 tvg-id="plex.tv.True.History.plex" group-title="Documentaries",True History
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_eece3f24-7175-4bd4-9b0c-8339701c71bc&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621178&url=faedaa7c2bed88e3a1592bbc8e3ba58d-c3daf5643f38ed49ea32287dc06129045e4760ec3db71db2becc45f37dd264414017f2154a71077a90e7c840ba8ee192340557d2e850f6257e35bace2bb7dabfc8e0f899bff32724a0f7de7875ed4b13f289da42b30b1e355f880db99a42590696b7e2f0687bb288327c24f32e75d5e8f3b16580b3ae1ca91575a3acb5eb981ee4b42a18961489fe6441d9a05d9c33a017cda74a24a8d0a93cf9aca6bd813ae7714de061efdc9b9c8b8b6f7f3ad833621f02f2bd1c0d7546e7623de9282d198e3e8526becec9ceddda41548a472533ee
+
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" group-title="Documentaries",Crime & Investigation Network USA
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+#EXTINF:-1 tvg-id="destination-america" group-title="Documentaries",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" group-title="Documentaries",Discovery Channel
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 tvg-id="discovery-family-channel"group-title="Documentaries",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" group-title="Documentaries",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
 
 # Church
 
@@ -261,15 +294,27 @@ https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="NHRATV.us" group-title="Sport",NHRA TV
 https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 
+#EXTINF:-1 tvg-id="acc-network" group-title="Sport",ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+
+#EXTINF:-1 tvg-id="altitude-sports-denver" group-title="Sport",Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+
+#EXTINF:-1 tvg-id="big-ten-network" group-title="Sport",Big Ten Network
+https://tvpass.org/live/BTN/sd
+
+#EXTINF:-1 tvg-id="chicago-sports-network" group-title="Sport",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/sd
+
 # Kids
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA East SD" group-title="Cartoons",Disney Junior USA East SD
 https://tvpass.org/live/DisneyJuniorEast/sd
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Eastern Feed SD" group-title="Entertainment",Disney Eastern Feed SD
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Eastern Feed SD" group-title="Kids",Disney Eastern Feed SD
 https://tvpass.org/live/DisneyChannelEast/sd
 
-#EXTINF:-1 tvg-id="afrokiddos.za" group-title="Entertainment",AfroKiddos
+#EXTINF:-1 tvg-id="afrokiddos.za" group-title="Kids",AfroKiddos
 https://stream.ads.ottera.tv/cl/250830d2pd46p4dks76bc5o5bg/1280x720_1400000_1_f.m3u8?i=475_1932
 
 #EXTINF:-1 tvg-id="MeTV.Toons.us" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Cartoons",MeTV Toons (WJLP2) New Jersey SD
@@ -298,6 +343,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672612c26
 
 #EXTINF:-1 tvg-id="plex.tv.Kidoodle.TV.plex" group-title="Kids",Kidoodle TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_5921ba5d-f7a4-4e4f-ae67-37d5401975a7&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756617341&url=a114017852af9c693e94617ddc27e22b-fb4068c7e7526a792c828c5d8a4df0e95247b8988c617c5491d80db9cac2afeebde8f9be66d9695b526425a8224e7f0184df2292666e517e0e7e8b8e990186beec0588cb7e14406e4ad16f7b0b83e4a35448d5647a98c8175b31d615190eceb8213162b1f93d300045175549d7e490af35a9e28efd0d103dd330142de82533c04e1e31309a265b314e950962fd8bf480ab2731698463ba3fe90b3bd5398f5e1f17be54436a773464c724d7b6eb7d068e2af333c68294d08303a64f451214bc0e5707e394260b77b5bc31bdf1aa307379713ac0ed7cd27ed7beea9fbcad9f73cca0b02973bf7087e4a1f61606ab348063dccf16a4ede4fc3a518bd12fbbfe86d4a4994e091d0bba9550e0a47c0dd20fee8a0be9c3353666aa3e3627f21fd8d4eb314f54034cd2dad8defc4000fb3f8a63c060c488189c07a8392212a6b5c789a6fdb0b96b6fe5d5698c6a051a0815fa07cdda306cc6dda2e86805eaba5fcdc7b6406d7e747ddb0e5244892adb5a2bd409a50343ce22dc60829b368a5f12aa18bcccd6f2c1d2bfc2979a1316edebb3d2ef8f5697f47dc9f829c1d7f03df57210ba0d32727fab5cc25135cc8978ba0b3c959a6888a4da385d9334c8ae1abad0d30a8659fb6e0bfdeec6d438a93a41c547288ff14e6773500d70320ede4a54b2d475becfa3b4bbe86106e3dc17a98ed1ef2f6d1e1d25dc0272a09ca1b96842931b9c846f4503bbb00e5720db40b76dfdb5f1f74321dd3e6db7a616ed4a09ccd021a089bc4340656eb24f0b926a6305f15ffd5bdf3744c2359f64af6ee230461c664558de50bcb3ca61646d361b466e5268048e1fd8424f20c601984ced896bc939dee37be15df2b30d8f73e83c60fbfa0fbe9caa28bb614c86dbf96f57102c83920db6f9d71cc3f815869a208d51a31bdb701e504f33d1511a8a505a92bbb50871e748a928bdb3d7efe6adfa0f0631a1f558b17df584d1be90b56cd573b5e9f29ec7a6f28322388fef770ee3bac9d72be37bf8d6d10fe339b2ce16b4cfb9c53e67852207fb9dfd3a3cbaaa84b9f3389d743471e86a53eba39ed5dc5074bd4de1fa02786d8cc005e6aef31e8a93b8a2aea02d50cccd9fe7e6e2776a9916d470c97dc9160c417e20e8463cb6fd73fa1089937d0ebb7adf2c2789668a2c41d2518ac4d51574d7e709992b37fe4ad0b0cd744e1f438ec9feb8b2e47fa7eeddd0ed701bb04ff8764fa8cc7bad227c1ed3d47379688480ff56107774e7ff1d8e31e37b689c32f559b90f16c0f83acf788360d4282b05e744a2f082e355ea4ab006363db7679b218a0ea18fd4cf721621dbd2bdf03631a86a7ef769e01b2bfbd3d07df512bda317fc5e2ba13ceec2759da8226cee64c3f9080f46d4e649dc5bf827a2a48fc4bfb7965c9cb322b2c7a6e4f41ff1709e10a1c2d6a0dec3f07a388db0ae017c2d52e7df6e5844ec07756722444699d19ee8c0287ec59f712a560fb76a144f9de64f602f51e3589c2337a2492ebf2c34aff5b5f44d64dc49e9d8f4dc5a8359021ef4d0349b46efdccfc3d00801138d52cc3b880ba38561b5b6fcb1e5b7e4e054f69b2cda0ae1262e41d17c5c589b2cf1b94c3649cba6026dd8b32f9de59028effa7761d7c06c9719dcff797c9b839b85b7b85d06263f4bdbdf0d021e02c428cea62d0661ffe1546da3debf72c6a7262d2e44fbf5ee27f7e40ac8141ccb98291fa59614e9c4d09cc5082185ce72ed29fdb6f7a06682d5e65090eeb877676222a7156e3fda372d3a9cfec6d2db691626de91770db5174b7d532059bfc10a2cb2bb054a839312010d6ac303a0e0b6bc020b9a14161b456d197a0b1593f7a0ab73b1ab7a7c25cba37ada3fcf30bf89f5f73bbf3565d5746d56abf5c72f36dcb24b5a480395889f98d6f6e957f8cacb4633b229cfd3b0e992e6b56a8d5e3a67b59d9c08d69d7d7c4fad0d843c7052b45589f76a48535a9ab01ec8113e1308f6a1dd07acddb68cd2cadce22bb2bc638bf8c079cada513b594e2f86380cb27ffd4c66f8b09024deb305a4632ecf34fb305fe667058d24815b07679adcafc987ac6bedf51f143ab8fff6f69481a0788e96f85bd39608986b724128792bebd64bb598b7939c9ecbd626ccbafb37795087f8c5ac5c683dc6883c98a119148a8deb8cd9c75eda
+
+#EXTINF:-1 tvg-id="boomerang" group-title="Kids",Boomerang
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" group-title="Kids",Cartoon Network USA
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" group-title="Kids",Disney XD USA
+https://tvpass.org/live/DisneyXDEast/sd
 
 #Entertainment
 
@@ -424,8 +478,41 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674502c26
 #EXTINF:-1 tvg-id="plex.tv.Dungeon.TV.plex" group-title="Entertainment",Dungeon TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216723e2c2627c068e73ad4/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_81d5463f-b0de-42cb-8a06-f2be3b054314&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756616777&url=27c5152d5b66146725aeb8841e0b4823-31c2bef85f0b48a4a21bd22d8dd29f1e7e217b657b6b78d6e2e2c34fc5121957fac0bec81b163aef1b1124e59e42153de9c218349184ef99bf0e638fbc1f52d8c7c1c94a805cadf9557c93c41bea8d7df9d1c4e56ba64884e582d1a25aa36d903a73ed6c6138f4c1bf56f9d9a766d808
 
-#EXTINF:-1 tvg-id="plex.tv.CINEPRIDE.plex" group-title="Kids",CINEPRIDE
+#EXTINF:-1 tvg-id="plex.tv.CINEPRIDE.plex" group-title="Entertainment",CINEPRIDE
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_b137adbe-c96e-494a-a9e4-6bc7111ddcf8&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756617686&url=9b11c1578396ce9ada17520e8651cc18-328e9301258477f2a59d3790d1e03746ec4ce926172ec45ddeadc35b7ddb93de0e21ae153d5e887c78506b96960891476bf4428c780890dba539db95c427a909f95865e971b93189e72c39dd72713016314942f4f07118ee113d1dd3e3a81633d0f0027063ad105c5f045db3db856b99
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" group-title="Entertainment",A&E
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-id="amc-eastern-feed" group-title="Entertainment",AMC
+https://tvpass.org/live/AMCEast/sd
+
+#EXTINF:-1 tvg-id="american-heroes-channel" group-title="Entertainment",American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1 tvg-id="bbc-america-east" group-title="Entertainment",BBC America
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1 tvg-id="bet-eastern-feed" group-title="Entertainment",BET
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1 tvg-id="bet-her" group-title="Entertainment",BET Her
+https://tvpass.org/live/BETHerEast/sd
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" group-title="Entertainment",Bravo USA
+https://tvpass.org/live/BravoEast/sd
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="Entertainment",Cinemax
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed"group-title="Entertainment",CMT US
+https://tvpass.org/live/CMTEast/sd
+
+#EXTINF:-1 tvg-id="cnbc-usa" group-title="Entertainment",CNBC USA
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed"group-title="Entertainment",Comedy Central
+https://tvpass.org/live/ComedyCentralEast/sd
 
 # Music
 
