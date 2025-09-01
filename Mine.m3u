@@ -120,6 +120,30 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30
 #EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Church",GOD TV
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_3099978/lNHMOQOu82uZfELRwKXs4g/1756621143/media_mpegts_0.m3u8?channel_id=50859&source=WebApp&app_id=5282&device_id=3590565171-7a1c61b6460f153214383e55b0184943&lcp=3&client_id=387699324566190188&play_id=1756534743341606
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network (720p)
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/588480.ts
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Inspire
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Teaching & Worship
+https://amg01700-tbn-amg01700c2-tbn-worldwide-966.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-tbnselect-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Women of Faith
+https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Africa
+https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/OSANTCwg/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
+
 # Auto
 
 #EXTINF:-1 tvg-id="plex.tv.Motorvision.TV.plex" group-title="Automotive",Motorsport.tv
