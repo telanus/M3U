@@ -150,7 +150,7 @@ https://tvpass.org/live/DiscoveryLife/sd
 
 # Church
 
-#EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Church",GOD TV
+#EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Religious",GOD TV
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_3099978/lNHMOQOu82uZfELRwKXs4g/1756621143/media_mpegts_0.m3u8?channel_id=50859&source=WebApp&app_id=5282&device_id=3590565171-7a1c61b6460f153214383e55b0184943&lcp=3&client_id=387699324566190188&play_id=1756534743341606
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
@@ -308,7 +308,7 @@ https://tvpass.org/live/chicago-sports-network/sd
 
 # Kids
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA East SD" group-title="Cartoons",Disney Junior USA East SD
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA East SD" group-title="Kids",Disney Junior USA East SD
 https://tvpass.org/live/DisneyJuniorEast/sd
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Eastern Feed SD" group-title="Kids",Disney Eastern Feed SD
@@ -317,22 +317,22 @@ https://tvpass.org/live/DisneyChannelEast/sd
 #EXTINF:-1 tvg-id="afrokiddos.za" group-title="Kids",AfroKiddos
 https://stream.ads.ottera.tv/cl/250830d2pd46p4dks76bc5o5bg/1280x720_1400000_1_f.m3u8?i=475_1932
 
-#EXTINF:-1 tvg-id="MeTV.Toons.us" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Cartoons",MeTV Toons (WJLP2) New Jersey SD
+#EXTINF:-1 tvg-id="MeTV.Toons.us" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Kids",MeTV Toons (WJLP2) New Jersey SD
 https://tvpass.org/live/metv-toons/sd
 
-#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Cartoons",LEGO Kids TV
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
 
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Cartoons",Nick Jr. Pluto TV
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Kids",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 
-#EXTINF:0 channel-id="totally-turtles" channel-number="3800" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Cartoons", TOTALLY TURTLES
+#EXTINF:0 channel-id="totally-turtles" channel-number="3800" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids", TOTALLY TURTLES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7353a868-625c-11ef-a6ca-c88aee40e168&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=39ae4f06-1303-4d78-929a-561865a888ec&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Kiddo.us" group-title="Cartoons",Kiddo+
+#EXTINF:-1 tvg-id="Kiddo.us" group-title="Kids",Kiddo+
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" group-title="Cartoons",PBS Kids
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Toon.Goggles.plex" group-title="Kids",Toon Goggles
