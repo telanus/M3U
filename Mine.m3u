@@ -38,13 +38,13 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" group-title="News",ABC (KABC) Los Angeles
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" group-title="News",ABC (KABC) Los Angeles
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" group-title="News",CBS (KCBS) Los Angeles
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" group-title="News",CBS (KCBS) Los Angeles
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" group-title="News",CW (KFMB-TV2) San Diego
+#EXTINF:-1 tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" group-title="News",CW (KFMB-TV2) San Diego
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" group-title="News",NBC (KNBC) Los Angeles
@@ -53,7 +53,7 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" group-title="News",FOX (KTTV) Los Angeles
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" group-title="News",CW (WDCW) District of Columbia
+#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" group-title="News",CW (WDCW) District of Columbia
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="News",ABC (WABC) New York, NY
@@ -95,10 +95,10 @@ https://tvpass.org/live/FoxBusiness/sd
 #EXTINF:-1 tvg-id="fox-news" group-title="News",Fox News
 https://tvpass.org/live/FoxNewsChannel/sd
 
-#EXTINF:-1 tvg-id="africanews" group-title="News",Africanews
+#EXTINF:-1 tvg-id="Africanews.za" group-title="News",Africanews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="Al.Jazeera.za" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-id="msnbc-usa" group-title="News",MSNBC USA
@@ -109,7 +109,7 @@ https://tvpass.org/live/NewsmaxTV/sd
 
 # Documentaries
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
+#EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate1.m3u8
 
 #EXTINF:-1 tvg-name="RT Documentary English" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary English
@@ -157,7 +157,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe
 #EXTINF:-1 tvg-id="plex.tv.True.History.plex" group-title="Documentaries",True History
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_eece3f24-7175-4bd4-9b0c-8339701c71bc&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621178&url=faedaa7c2bed88e3a1592bbc8e3ba58d-c3daf5643f38ed49ea32287dc06129045e4760ec3db71db2becc45f37dd264414017f2154a71077a90e7c840ba8ee192340557d2e850f6257e35bace2bb7dabfc8e0f899bff32724a0f7de7875ed4b13f289da42b30b1e355f880db99a42590696b7e2f0687bb288327c24f32e75d5e8f3b16580b3ae1ca91575a3acb5eb981ee4b42a18961489fe6441d9a05d9c33a017cda74a24a8d0a93cf9aca6bd813ae7714de061efdc9b9c8b8b6f7f3ad833621f02f2bd1c0d7546e7623de9282d198e3e8526becec9ceddda41548a472533ee
 
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" group-title="Documentaries",Crime & Investigation Network USA
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" group-title="Documentaries",Crime & Investigation Network USA
 https://tvpass.org/live/CrimePlusInvestigation/sd
 
 #EXTINF:-1 tvg-id="destination-america" group-title="Documentaries",Destination America
@@ -166,10 +166,10 @@ https://tvpass.org/live/DestinationAmerica/sd
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" group-title="Documentaries",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
-#EXTINF:-1 tvg-id="discovery-family-channel"group-title="Documentaries",Discovery Family Channel
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us"group-title="Documentaries",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/sd
 
-#EXTINF:-1 tvg-id="discovery-life-channel" group-title="Documentaries",Discovery Life Channel
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" group-title="Documentaries",Discovery Life Channel
 https://tvpass.org/live/DiscoveryLife/sd
 
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Documentaries",E! Entertainment USA
@@ -219,13 +219,13 @@ https://tvpass.org/live/VICETV/sd
 #EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Religious",GOD TV
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_3099978/lNHMOQOu82uZfELRwKXs4g/1756621143/media_mpegts_0.m3u8?channel_id=50859&source=WebApp&app_id=5282&device_id=3590565171-7a1c61b6460f153214383e55b0184943&lcp=3&client_id=387699324566190188&play_id=1756534743341606
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
+#EXTINF:-1 tvg-id="Catholic.TV.(WLAE-DT3).New.Orleans,.LA.us" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
+#EXTINF:-1 tvg-id="Daystar..-.Network.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/588480.ts
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
@@ -432,7 +432,7 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 tvg-id="acc-network" group-title="Sport",ACC Network
 https://tvpass.org/live/ACCNetwork/sd
 
-#EXTINF:-1 tvg-id="altitude-sports-denver" group-title="Sport",Altitude Sports Denver
+#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" group-title="Sport",Altitude Sports Denver
 https://tvpass.org/live/altitude-sports-denver/sd
 
 #EXTINF:-1 tvg-id="big-ten-network" group-title="Sport",Big Ten Network
@@ -494,6 +494,7 @@ https://tvpass.org/live/sportsnet-pittsburgh/sd
 
 #EXTINF:-1 tvg-id="sportsnet-west" group-title="Sport",Sportsnet (West)
 https://tvpass.org/live/sportsnet-west/sd
+
 # Kids
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="Kids",Disney Junior USA
@@ -547,10 +548,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60557408
 #EXTINF:-1 tvg-id="boomerang" group-title="Kids",Boomerang
 https://tvpass.org/live/Boomerang/sd
 
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" group-title="Kids",Cartoon Network USA
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" group-title="Kids",Cartoon Network USA
 https://tvpass.org/live/CartoonNetworkEast/sd
 
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" group-title="Kids",Disney XD USA
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids",Disney XD USA
 https://tvpass.org/live/DisneyXDEast/sd
 
 #EXTINF:-1 tvg-id="universal-kids" group-title="Kids",Universal Kids
@@ -621,7 +622,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" group-title="Entertainment",Comedy Central Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Doctor Who Classic
+#EXTINF:-1 tvg-id="plex.tv.Classic.Doctor.Who.plex" group-title="Entertainment",Doctor Who Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd
 
 #EXTINF:-1 tvg-id="NTV.na" group-title="Entertainment",NPO 1
@@ -693,22 +694,22 @@ https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 tvg-id="american-heroes-channel" group-title="Entertainment",American Heroes Channel
 https://tvpass.org/live/AmericanHeroesChannel/sd
 
-#EXTINF:-1 tvg-id="bbc-america-east" group-title="Entertainment",BBC America
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" group-title="Entertainment",BBC America
 https://tvpass.org/live/BBCAmericaEast/sd
 
 #EXTINF:-1 tvg-id="bet-eastern-feed" group-title="Entertainment",BET
 https://tvpass.org/live/BETEast/sd
 
-#EXTINF:-1 tvg-id="bet-her" group-title="Entertainment",BET Her
+#EXTINF:-1 tvg-id="BET.Her.us" group-title="Entertainment",BET Her
 https://tvpass.org/live/BETHerEast/sd
 
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" group-title="Entertainment",Bravo USA
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" group-title="Entertainment",Bravo USA
 https://tvpass.org/live/BravoEast/sd
 
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="Entertainment",Cinemax
 https://tvpass.org/live/CinemaxEast/sd
 
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed"group-title="Entertainment",CMT US
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us"group-title="Entertainment",CMT US
 https://tvpass.org/live/CMTEast/sd
 
 #EXTINF:-1 tvg-id="cnbc-usa" group-title="Entertainment",CNBC USA
@@ -859,3 +860,4 @@ https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
+
