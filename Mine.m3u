@@ -554,8 +554,11 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids",Disney XD USA
 https://tvpass.org/live/DisneyXDEast/sd
 
-#EXTINF:-1 tvg-id="universal-kids" group-title="Kids",Universal Kids
+#EXTINF:-1 tvg-id="Universal.Kids.us" group-title="Kids",Universal Kids
 https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1 tvg-id="ABCKidsMelbourne.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
 #Entertainment
 
@@ -817,6 +820,30 @@ https://d12bvzrt67u5fg.cloudfront.net/v1/manifest/4ce0d7e1802b0fac6a0a747c81f278
 #EXTINF:-1 tvg-id="tv-one" group-title="Entertainment",eXtra
 https://d1e0vtf9vk3e9w.cloudfront.net/v1/manifest/4ce0d7e1802b0fac6a0a747c81f2780694495b61/PROD_eExtra_LIVE_PREROLL/b82d125e-be26-4cee-b8c1-efd84dec11ec/0.m3u8
 
+#EXTINF:-1 tvg-id="7TWOBrisbane.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Entertainment",7two
+http://44.32.200.212:5004/auto/v72
+
+#EXTINF:-1 tvg-id="ABCEntertainsBrisbane.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Entertainment",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="ABCKidsSydney.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="Entertainment",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png" group-title="Entertainment",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.Canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="Entertainment",Bravo
+http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
+
+#EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="AriaPlus - Canada",Crave 1
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
+
+#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="AriaPlus - Canada",Crave 2
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
+
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="AriaPlus - Canada",Crave 4
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
+
 # Music
 
 #EXTINF:-1 tvg-id="Vevo2K.us",Vevo 2K
@@ -860,4 +887,3 @@ https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
-
