@@ -835,13 +835,13 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="Bravo.Canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="Entertainment",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 
-#EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="AriaPlus - Canada",Crave 1
+#EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="Entertainment",Crave 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
 
-#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="AriaPlus - Canada",Crave 2
+#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="Entertainment",Crave 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
 
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="AriaPlus - Canada",Crave 4
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="Entertainment",Crave 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
 
 # Music
