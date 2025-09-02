@@ -336,65 +336,14 @@ https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 tvg-id="espn2" group-title="Entertainment",ESPN2
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" group-title="Sport",Fanduel Sports Indiana
-https://tvpass.org/live/fanduel-sports-indiana/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" group-title="Sport",Fanduel Sports Network Detroit
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" group-title="Sport",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
-
 #EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" group-title="Sport",Fanduel Sports Network Great Lakes
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" group-title="Sport",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" group-title="Sport",Fanduel Sports Network Ohio Cleveland
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
 
 #EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" group-title="Sport",Fanduel Sports Network Oklahoma
 https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" group-title="Sport",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal SD" group-title="Sport",Fanduel Sports Network Socal SD
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" group-title="Sport",Fanduel Sports Network South Carolinas
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" group-title="Sport",Fanduel Sports Network South Tennessee
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" group-title="Sport",Fanduel Sports Network West SD
-https://tvpass.org/live/fanduel-sports-network-west/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" group-title="Sport",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" group-title="Sport",Fanduel Sports Southeast Georgia
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" group-title="Sport",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" group-title="Sport",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" group-title="Sport",Fanduel Sports Southeast Tennessee Nashville
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-
-#EXTINF:-1 tvg-id="bally-sports-sun" group-title="Sport",Fanduel Sports Sun
-https://tvpass.org/live/fanduel-sports-sun/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east"group-title="Sport",Fanduel Sports Tennessee East
-https://tvpass.org/live/fanduel-sports-tennessee-east/sd
-
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed"group-title="Sport",Food Network USA
-https://tvpass.org/live/FoodNetworkEast/sd
 
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="Sport",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
@@ -843,6 +792,9 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
 
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="Entertainment",Crave 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
+
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed"group-title="Entertainment",Food Network USA
+https://tvpass.org/live/FoodNetworkEast/sd
 
 # Music
 
