@@ -214,6 +214,9 @@ https://tvpass.org/live/TravelChannelEast/sd
 #EXTINF:-1 tvg-id="vice" group-title="Documentaries",VICE
 https://tvpass.org/live/VICETV/sd
 
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Documentaries",Ghost Hunters Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
 # Religious
 
 #EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Religious",GOD TV
@@ -455,9 +458,6 @@ https://tvpass.org/live/DisneyJuniorEast/sd
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="Kids",Disney
 https://tvpass.org/live/DisneyChannelEast/sd
 
-#EXTINF:-1 tvg-id="afrokiddos.za" group-title="Kids",AfroKiddos
-https://stream.ads.ottera.tv/cl/250830d2pd46p4dks76bc5o5bg/1280x720_1400000_1_f.m3u8?i=475_1932
-
 #EXTINF:-1 tvg-id="MeTV.Toons.us" group-title="Kids",MeTV Toons
 https://tvpass.org/live/metv-toons/sd
 
@@ -506,9 +506,6 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids",Disney XD USA
 https://tvpass.org/live/DisneyXDEast/sd
 
-#EXTINF:-1 tvg-id="Universal.Kids.us" group-title="Kids",Universal Kids
-https://tvpass.org/live/UniversalKidsEast/sd
-
 #EXTINF:-1 tvg-id="ABCKidsMelbourne.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
@@ -517,6 +514,12 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/48
 
 #EXTINF:-1 tvg-id="Moonbug.Kids.ph" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/480p-cc/index.m3u8
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-674487c3c583cfbd5f0e1da9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b812cca-c2cc-4020-996f-d5bc3c87ea9c/PLEX_BarbieandFriends_ColorLogo_Dark_Background__1500_x_1000__-_Ana_C_Garcia_white_textrdx.png" group-title="Kids",Barbie and Friends by Mattel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674487c3c583cfbd5f0e1da9.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1388332-0aee-4da1-9d42-1c2c9c00ab6c/BARNEY_LOGO_COLOR_dylan_canfieldRDX.png" group-title="Kids",Barney and Friends
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #Entertainment
 
@@ -564,6 +567,18 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 channel-id="pluto-5fb5836fe745b600070fc743" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://i.ibb.co/8rsLBXj/bbchome.jpg" group-title="Entertainment" , BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Entertainment",BBC Comedy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Entertainment",BBC Game Shows
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Entertainment",BBC Sci-Fi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Entertainment",BBC Travel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 #EXTINF:-1 tvg-id="BETPlutoTV.us" group-title="Entertainment",BET Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
@@ -772,12 +787,6 @@ https://tvpass.org/live/TVOne/sd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Entertainment",USA Network
 https://tvpass.org/live/USANetworkEast/sd
 
-#EXTINF:-1 tvg-id="e.TV.HD.za" group-title="Entertainment",e-TV
-https://d12bvzrt67u5fg.cloudfront.net/v1/manifest/4ce0d7e1802b0fac6a0a747c81f2780694495b61/PROD_ETV_LIVE_PREROLL/24a107d7-ff21-4f32-b423-42b8b5fbd5d2/0.m3u8
-
-#EXTINF:-1 tvg-id="tv-one" group-title="Entertainment",eXtra
-https://d1e0vtf9vk3e9w.cloudfront.net/v1/manifest/4ce0d7e1802b0fac6a0a747c81f2780694495b61/PROD_eExtra_LIVE_PREROLL/b82d125e-be26-4cee-b8c1-efd84dec11ec/0.m3u8
-
 #EXTINF:-1 tvg-id="7TWOBrisbane.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Entertainment",7two
 http://44.32.200.212:5004/auto/v72
 
@@ -807,6 +816,15 @@ https://tvpass.org/live/FoodNetworkEast/sd
 
 #EXTINF:-1 tvg-id="WeTV.us" group-title="Entertainment",WeTV
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",TLN Media San Francisco
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png" group-title="Entertainment",NEW K.MOVIES
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="Entertainment",NEW K-POP
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
 # Music
 
