@@ -107,6 +107,12 @@ https://tvpass.org/live/MSNBC/sd
 #EXTINF:-1 tvg-id="newsmax-tv" group-title="News",NewsMax TV
 https://tvpass.org/live/NewsmaxTV/sd
 
+#EXTINF:-1 tvg-id="DW.English" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="GBNews" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews/index_2.m3u8
+
 # Documentaries
 
 #EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
@@ -216,6 +222,9 @@ https://tvpass.org/live/VICETV/sd
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Documentaries",Ghost Hunters Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK",Homes Under Hammer
+https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
 
 # Religious
 
