@@ -20,7 +20,7 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b5500
 
 # News
 
-#EXTINF:-1 tvg-id="" group-title="News",CCTV4
+#EXTINF:-1 tvg-id="cctv4" group-title="News",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 
 #EXTINF:-1 tvg-id="RevryNews.us" group-title="News",Revry News (US)
@@ -110,7 +110,7 @@ https://tvpass.org/live/NewsmaxTV/sd
 #EXTINF:-1 tvg-id="DW.English" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="GBNews" group-title="News",GB News
+#EXTINF:-1 tvg-id="GBNews" group-title="News",GB News 1
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index_2.m3u8
 
 # Documentaries
@@ -223,8 +223,32 @@ https://tvpass.org/live/VICETV/sd
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Documentaries",Ghost Hunters Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
-#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK",Homes Under Hammer
+#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="Documentaries",Homes Under Hammer
 https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/535/lg/87a941/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",GoUSA TV
+https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1517/lg/980216/LG-Logo-PNG-100x100_v2.png" group-title="Documentaries",Autentic Travel
+https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Travelxp
+https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_TravelXP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1907/lg/e72dd3/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Inside Outside
+https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v2.png" group-title="Documentaries",491 The Pet Collective
+https://ec8e82aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1299-LG-Logo-PNG-100x100_v4.png" group-title="Documentaries",Adventure Earth
+https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bloomberg Originals
+https://c72595b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1301/lg/e3d391/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bondi Vet
+https://5fc0619ee52c4b329c74021080a23251.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_BondiVet/playlist.m3u8
 
 # Religious
 
@@ -360,13 +384,13 @@ https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="Sport",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 
-#EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://i.ibb.co/DzNrVKh/f1.png" group-title="Sport" , Formula 1 Channel
+#EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://i.ibb.co/DzNrVKh/f1.png" group-title="Sport", Formula 1 Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.ibb.co/JRVCCY6/images.png" group-title="Sport" , FOX Sports
+#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.ibb.co/JRVCCY6/images.png" group-title="Sport", FOX Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
-#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://i.ibb.co/CbcVC1J/mj.png" group-title="Sport" , Monster Jam
+#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://i.ibb.co/CbcVC1J/mj.png" group-title="Sport", Monster Jam
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959
 
 #EXTINF:-1 tvg-id="" group-title="Sport",Red Bull TV
@@ -485,6 +509,9 @@ https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_10
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" group-title="Kids",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
 #EXTINF:-1 tvg-id="nick-jr-east" group-title="Kids",Nick Jr.
 https://tvpass.org/live/NickJrEast/sd
 
@@ -509,10 +536,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60557408
 #EXTINF:-1 tvg-id="boomerang" group-title="Kids",Boomerang
 https://tvpass.org/live/Boomerang/sd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" group-title="Kids",Cartoon Network USA
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" group-title="Kids",Cartoon Network
 https://tvpass.org/live/CartoonNetworkEast/sd
 
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids",Disney XD USA
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="Kids",Disney XD
 https://tvpass.org/live/DisneyXDEast/sd
 
 #EXTINF:-1 tvg-id="ABCKidsMelbourne.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
@@ -529,6 +556,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674487c3c583
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1388332-0aee-4da1-9d42-1c2c9c00ab6c/BARNEY_LOGO_COLOR_dylan_canfieldRDX.png" group-title="Kids",Barney and Friends
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/696/lg/753db5/LG-Logo-PNG-100x100_v1.png" group-title="Kids",BABY SHARK TV
+https://8cc50be9a3f74e56a181c17133b8cdbb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1606/lg/777e01/LG-Logo-PNG-100x100_v2.png" group-title="Kids",Arthur
+https://bec9445e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUEJTS2lkc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" group-title="Kids",Kartoon Channel!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae
 
 #Entertainment
 
@@ -835,6 +871,20 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4eddab2fd
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png" group-title="Entertainment",NEW K-POP
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
 
+#EXTINF:-1 tvg-id="CSI.us@SD" group-title="Entertainment",CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",CSI: Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e0e63fde020007835cbe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df71-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a93e1bf0-0e0f-4cc0-a79d-1cb026b180ed
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",CSI: NY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Sci-Fi World
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Space Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 # Music
 
 #EXTINF:-1 tvg-id="Vevo2K.us",Vevo 2K
