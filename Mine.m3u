@@ -378,7 +378,7 @@ https://tvpass.org/live/TennisChannel/sd
 #EXTINF:-1 tvg-id="TSN1.ca" tgroup-title="Sport",TSN1
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="TSN2.ca" group-title="Sport',TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="Sport",TSN2
 https://tvpass.org/live/tsn2/sd
 
 #EXTINF:-1 tvg-id="TSN3.ca" group-title="Sport",TSN3
@@ -982,23 +982,14 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/250px-Retro_Television_Network.png" group-title="Entertainment",Retro TV
 http://visitmy.collegefan.org:80/7403256176/tVEtuxNXQ5/814377
 
-#EXTINF:- 1 group-title="Entertainment",BBC 2 (Alt)
+#EXTINF:- 1 tvg-id="BB2.uk" group-title="Entertainment",BBC 2 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115555
 
-#EXTINF:- 1 group-title="Entertainment",ALIBI
+#EXTINF:- 1 tvg-id="RetroTV.uk" group-title="Entertainment",ALIBI
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115571
 
 #EXTINF:- 1 group-title="Entertainment",E4
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115573
-
-#EXTINF:- 1 group-title="Entertainment",ITV 2 (Alt)
-http://62.182.83.108:80/Ivan4/rrrMUJcH4f6t/238955
-
-#EXTINF:- 1 group-title="Entertainment",ITV 1
-http://62.182.83.108:80/Ivan4/rrrMUJcH4f6t/233815
-
-#EXTINF:- 1 group-title="Entertainment",BBC 1
-http://62.182.83.108:80/Ivan4/rrrMUJcH4f6t/269072
 
 #EXTINF:- 1 group-title="Entertainment",SKY CRIME
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115543
@@ -1027,10 +1018,10 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 group-title="Entertainment",COMEDY CENTRAL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115456
 
-#EXTINF:- 1 group-title="Entertainment",GOLD
+#EXTINF:- 1 tvg-id="Gold.uk"  group-title="Entertainment",GOLD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115458
 
-#EXTINF:- 1 group-title="Entertainment",MORE 4
+#EXTINF:- 1 tvg-id="More4.uk" group-title="Entertainment",MORE 4
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115460
 
 #EXTINF:- 1 group-title="Entertainment",SKY ATLANTIC
