@@ -250,31 +250,31 @@ https://c72595b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1301/lg/e3d391/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bondi Vet
 https://5fc0619ee52c4b329c74021080a23251.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_BondiVet/playlist.m3u8
 
-#EXTINF:- 1 group-title="Documentaries",SKY WITNESS
+#EXTINF:- 1 tvg-id="Sky.Witness.HD.uk" group-title="Documentaries",SKY WITNESS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115452
 
-#EXTINF:- 1 group-title="Documentaries",SKY ARTS
+#EXTINF:- 1 tvg-id="Sky.Arts.HD.uk" group-title="Documentaries",SKY ARTS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115454
 
-#EXTINF:- 1 group-title="Documentaries",NATIONAL GEO
+#EXTINF:- 1 tvg-id="Nat.Geo.HD.uk" group-title="Documentaries",NAT GEO
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115531
 
-#EXTINF:- 1 group-title="Documentaries",NAT GEO WIld
+#EXTINF:- 1 tvg-id="Nat.Geo.Wild.uk" group-title="Documentaries",NAT GEO WIld
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115533
 
-#EXTINF:- 1 group-title="Documentaries",DISCOVERY
+#EXTINF:- 1 tvg-id="Discovery.HD.uk" group-title="Documentaries",DISCOVERY
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115535
 
-#EXTINF:- 1 group-title="Documentaries",SKY HISTORY
+#EXTINF:- 1 tvg-id="Sky.HistoryHD.uk" group-title="Documentaries",SKY HISTORY
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115537
 
-#EXTINF:- 1 group-title="Documentaries",SKY HISTORY 2
+#EXTINF:- 1 tvg-id=Sky.History2.uk" ""group-title="Documentaries",SKY HISTORY 2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115539
 
-#EXTINF:- 1 group-title="Documentaries",LOVE NATURE
+#EXTINF:- 1 tvg-id="LoveNature.au" group-title="Documentaries",LOVE NATURE
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115541
 
-#EXTINF:- 1 group-title="Documentaries",CRIME INVESTIGATION
+#EXTINF:- 1 tvg-id="Crime+Inv+1.uk" group-title="Documentaries",CRIME INVESTIGATION
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115547
 
 # Religious
@@ -288,41 +288,41 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Daystar..-.Network.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
+#EXTINF:-1 tvg-id="Daystar.Television.Network.HD.[CHARTER].us2" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/588480.ts
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
+#EXTINF:-1 tvg-id="TBN.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
 https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Inspire
+#EXTINF:-1 tvg-id="Inspire.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Teaching & Worship
+#EXTINF:-1 tvg-id="TBN.Teaching.and.Worship.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Teaching & Worship
 https://amg01700-tbn-amg01700c2-tbn-worldwide-966.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-tbnselect-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Women of Faith
+#EXTINF:-1 tvg-id="Women.of.Faith.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Women of Faith
 https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Africa
+#EXTINF:-1 tvg-id="TBN.Africa.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Africa
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/OSANTCwg/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 
 # Auto
 
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6373bfe48e2036e4410ddb82" tvg-logo="https://i.ibb.co/GCDp80R/motorfasttv.png"  group-title="Automotive", MotorTrend FAST TV
+#EXTINF:-1 tvg-id="plex.tv.MotorTrend.FAST.TV.plex" tvg-logo="https://i.ibb.co/GCDp80R/motorfasttv.png"  group-title="Automotive", MotorTrend FAST TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d8
 
-#EXTINF:-1 group-title="Automotive",Speedvision
+#EXTINF:-1 tvg-id="plex.tv.SPEEDVISION.plex" group-title="Automotive",Speedvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 
 #EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" group-title="Automotive",Motorsport.tv
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_0e06c274-cc27-49c0-9dca-24c05120c893&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621363&url=7ae91b4377ccb553615f4d3645069c94-5c25234141da32ea0548319da2dc5dd2463d59cde6ca93348f1fbb554f461e9c675a884280bb6b1f08fbba3a21d242d81b08b95403926060e0532df2f23f2a068fedb0b1050629ca4b8690ac8845d904c6f131bfcb58c722f43489fb84f361dad1ed4d18819d02bd021232d397eca45f4608c8a4e6f2c431635bf7e6058361ae1588c9b9a4488f60bde1141ca3fa1588d17e970a426ccc664f84e0d8e6e39973
 
-#EXTINF:-1 tvg-id="motor-trend-hd" group-title="Automotive",Motor Trend HD
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" group-title="Automotive",Motor Trend HD
 https://tvpass.org/live/Motortrend/sd
 
 # Weather
 
-#EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",AccuWeather NOW
+#EXTINF:-1 tvg-name="AccuWeather.HD.us2" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",AccuWeather NOW
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 # Sport
@@ -342,85 +342,85 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network USA SD" group-title="Sport",CBS Sports Network USA
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 
-#EXTINF:-1 tvg-id="ESPN.us" group-title="Sport",ESPN
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="Sport",ESPN
 https://tvpass.org/live/ESPN/sd
 
-#EXTINF:-1 tvg-id="ESPN2.us" group-title="Sport",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Sport",ESPN2
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="Sport",Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Sport",Fox Sports 1
 https://tvpass.org/live/FoxSports1/sd
 
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="Sport",Fox Sports 2
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",Fox Sports 2
 https://tvpass.org/live/FoxSports2/sd
 
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" group-title="Sport",Golf Channel USA
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" group-title="Sport",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" group-title="Sport",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="Sport",NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/sd
 
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" group-title="Sport",NBC Sports Boston
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Sport",NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/sd
 
-#EXTINF:-1 tvg-id="NBC.Sports.California.us" group-title="Sport",NBC Sports California
+#EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" group-title="Sport",NBC Sports California
 https://tvpass.org/live/nbc-sports-california/sd
 
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" group-title="Sport",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Sport",NBC Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/sd
 
-#EXTINF:-1 tvg-id="New.England.Sports.Network.us" group-title="Sport",New England Sports Network
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" group-title="Sport",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/sd
 
-#EXTINF:-1 tvg-id="The.Tennis.Channel.us" group-title="Sport",The Tennis Channel
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Sport",The Tennis Channel
 https://tvpass.org/live/TennisChannel/sd
 
-#EXTINF:-1 tvg-id="TSN1.ca" tgroup-title="Sport",TSN1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tgroup-title="Sport",TSN1
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="TSN2.ca" group-title="Sport",TSN2
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport",TSN2
 https://tvpass.org/live/tsn2/sd
 
-#EXTINF:-1 tvg-id="TSN3.ca" group-title="Sport",TSN3
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport",TSN3
 https://tvpass.org/live/tsn3/sd
 
-#EXTINF:-1 tvg-id="TSN4.ca" group-title="Sport",TSN4
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport",TSN4
 https://tvpass.org/live/tsn4/sd
 
-#EXTINF:-1 tvg-id="TSN5.ca" group-title="Sport",TSN5
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Sport",TSN5
 https://tvpass.org/live/tsn5/sd
 
-#EXTINF:-1 tvg-id="espn-news" group-title="Sport",ESPN News
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-title="Sport",ESPN News
 https://tvpass.org/live/ESPNews/sd
 
-#EXTINF:-1 tvg-id="espn-u" group-title="Sport",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" group-title="Sport",ESPN U
 https://tvpass.org/live/ESPNU/sd
 
-#EXTINF:-1 tvg-id="espn2" group-title="Entertainment",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Entertainment",ESPN2
 https://tvpass.org/live/ESPN2/sd
 
 #EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" group-title="Sport",Fanduel Sports Network Great Lakes
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" group-title="Sport",Fanduel Sports Network Oklahoma
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us" group-title="Sport",Fanduel Sports Network Oklahoma
 https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" group-title="Sport",Fanduel Sports Southeast Georgia
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" group-title="Sport",Fanduel Sports Southeast Georgia
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
 
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" group-title="Sport",CBS Sports HQ
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Sport",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 
 #EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://i.ibb.co/DzNrVKh/f1.png" group-title="Sport", Formula 1 Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://i.ibb.co/JRVCCY6/images.png" group-title="Sport", FOX Sports
+#EXTINF:-1 tvg-id="plex.tv.FOX.Sports.plex" tvg-logo="https://i.ibb.co/JRVCCY6/images.png" group-title="Sport", FOX Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
-#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://i.ibb.co/CbcVC1J/mj.png" group-title="Sport", Monster Jam
+#EXTINF:-1 tvg-id="plex.tv.Monster.Jam.plex" tvg-logo="https://i.ibb.co/CbcVC1J/mj.png" group-title="Sport", Monster Jam
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959
 
-#EXTINF:-1 tvg-id="" group-title="Sport",Red Bull TV
+#EXTINF:-1 tvg-id="UK:.Red.Bull.TV.be" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://trace.company/wp-content/uploads/2022/12/TraceSportStars_Logo_Colour_578x278.png" group-title="Sport",Trace Sport Stars
@@ -432,52 +432,52 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sport",BeIN Sports XTRA
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NFLChannel.us" group-title="Sport",NFL
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" group-title="Sport",NFL
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" group-title="Sport",NHL
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" group-title="Sport",NHL
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 tvg-id="NHRATV.us" group-title="Sport",NHRA TV
+#EXTINF:-1 tvg-id="plex.tv.NHRA.TV.plex" group-title="Sport",NHRA TV
 https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 
-#EXTINF:-1 tvg-id="acc-network" group-title="Sport",ACC Network
+#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="Sport",ACC Network
 https://tvpass.org/live/ACCNetwork/sd
 
 #EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" group-title="Sport",Altitude Sports Denver
 https://tvpass.org/live/altitude-sports-denver/sd
 
-#EXTINF:-1 tvg-id="big-ten-network" group-title="Sport",Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="Sport",Big Ten Network
 https://tvpass.org/live/BTN/sd
 
-#EXTINF:-1 tvg-id="chicago-sports-network" group-title="Sport",Chicago Sports Network
+#EXTINF:-1 tvg-id="CHSN.Chicago.Sports.Network.us2" group-title="Sport",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/sd
 
-#EXTINF:-1 tvg-id="marquee-sports-network" group-title="Sport",Marquee Sports Network
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" group-title="Sport",Marquee Sports Network
 https://tvpass.org/live/marquee-sports-network/sd
 
-#EXTINF:-1 tvg-id="midatlantic-sports-network" group-title="Sport",Midatlantic Sports Network
+#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" group-title="Sport",Midatlantic Sports Network
 https://tvpass.org/live/midatlantic-sports-network/sd
 
-#EXTINF:-1 tvg-id="mlb-network" group-title="Sport",MLB Network
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" group-title="Sport",MLB Network
 https://tvpass.org/live/MLBNetwork/sd
 
-#EXTINF:-1 tvg-id="monumental-sports-network" group-title="Sport",Monumental Sports Network
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.HD.us2" group-title="Sport",Monumental Sports Network
 https://tvpass.org/live/monumental-sports-network/sd
 
-#EXTINF:-1 tvg-id="msg-madison-square-gardens" group-title="Sport",MSG Madison Square Gardens SD
+#EXTINF:-1 tvg-id="MSG.National.us2" group-title="Sport",MSG Madison Square Gardens
 https://tvpass.org/live/msg-madison-square-gardens/sd
 
-#EXTINF:-1 tvg-id="msg-plus" group-title="Sport",MSG Plus
+#EXTINF:-1 tvg-id="MSG.Plus.us2" group-title="Sport",MSG Plus
 https://tvpass.org/live/msg-plus/sd
 
-#EXTINF:-1 tvg-id="sec-network" group-title="Sport",SEC Network
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" group-title="Sport",SEC Network
 https://tvpass.org/live/SECN/sd
 
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" group-title="Sport",SNY Sportsnet New York Comcast
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" group-title="Sport",SNY Sportsnet New York Comcast
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 
-#EXTINF:-1 tvg-id="space-city-home-network" group-title="Sport",Space City Home Network
+#EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" group-title="Sport",Space City Home Network
 https://tvpass.org/live/space-city-home-network/sd
 
 #EXTINF:-1 tvg-id="spectrum-sportsnet-la" group-title="Sport",Spectrum SportsNet LA
@@ -486,7 +486,7 @@ https://tvpass.org/live/spectrum-sportsnet-la/sd
 #EXTINF:-1 tvg-id="spectrum-sportsnet" group-title="Sport",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
 
-#EXTINF:-1 tvg-id="sportsnet-east" group-title="Sport",Sportsnet (East)
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" group-title="Sport",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
 
 #EXTINF:-1 tvg-id="sportsnet-360" group-title="Sport",Sportsnet 360
@@ -510,55 +510,55 @@ https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1 tvg-id="UK:.FIFA+.en" group-title="Sport",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS NEWS
+#EXTINF:- 1 tvg-id="SkySp.News.HD.uk" group-title="Sport",SKY SPORTS NEWS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115462
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS MAIN EVENTS
+#EXTINF:- 1 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENTS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
 
-#EXTINF:- 1 group-title="Sport",TNT SPORTS 1
+#EXTINF:- 1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sport",TNT SPORTS 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115466
 
-#EXTINF:- 1 group-title="Sport",TNT SPORTS 2
+#EXTINF:- 1 tvg-id="TNT.Sports.2.HD.uk" group-title="Sport",TNT SPORTS 2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115468
 
-#EXTINF:- 1 group-title="Sport",TNT SPORTS 3
+#EXTINF:- 1 tvg-id="TNT.Sports.3.HD.uk" group-title="Sport",TNT SPORTS 3
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115470
 
-#EXTINF:- 1 group-title="Sport",TNT SPORTS 4
+#EXTINF:- 1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sport",TNT SPORTS 4
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115472
 
-#EXTINF:- 1 group-title="Sport",RACING UK
+#EXTINF:- 1 tvg-id="Racing.TV.uk" group-title="Sport",RACING UK
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115476
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS ACTION
+#EXTINF:- 1 tvg-id="SkySp.Action.uk" group-title="Sport",SKY SPORTS ACTION
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115478
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS ARENA
+#EXTINF:- 1 tvg-id="SkySp.Arena.uk" group-title="Sport",SKY SPORTS ARENA
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115480
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS CRICKET
+#EXTINF:- 1 tvg-id="SkySp.Cricket.uk" group-title="Sport",SKY SPORTS CRICKET
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115482
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS FOOTBALL
+#EXTINF:- 1 tvg-id="SkySp.Fball.uk" group-title="Sport",SKY SPORTS FOOTBALL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115484
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS GOLF
+#EXTINF:- 1 tvg-id="SkySp.Golf.uk" group-title="Sport",SKY SPORTS GOLF
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115486
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS MIX
+#EXTINF:- 1 tvg-id="SkySp.Mix.HD.uk" group-title="Sport",SKY SPORTS MIX
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115488
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS NEWS
+#EXTINF:- 1 tvg-id="SkySp.News.HD.uk" group-title="Sport",SKY SPORTS NEWS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115490
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS PREMIER LEAGUE
+#EXTINF:- 1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492
 
-#EXTINF:- 1 group-title="Sport",SKY SPORTS RACING
+#EXTINF:- 1 tvg-id="SkySp.Racing.uk" group-title="Sport",SKY SPORTS RACING
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115493
 
-#EXTINF:- 1 group-title="Sport",PREMIER SPORTS 1 IRELAND
+#EXTINF:- 1 tvg-id="Premier.Sports.1.ie" group-title="Sport",PREMIER SPORTS 1 IRELAND
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115500
 
 # Kids
@@ -1070,6 +1070,9 @@ https://tvpass.org/live/mtv-2-east/sd
 
 #EXTINF:-1 tvg-id="mtv-usa-eastern-feed" group-title="Music",MTV USA
 https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
+https://tvpass.org/live/VH1East/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
