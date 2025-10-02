@@ -68,6 +68,9 @@ https://tvpass.org/live/WNYWDT1/sd
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY
 https://tvpass.org/live/WNBCDT1/sd
 
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY (Alt)
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY
 https://tvpass.org/live/WNET/sd
 
@@ -112,6 +115,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 
 #EXTINF:-1 tvg-id="GB.News.HD.uk" group-title="News",GB News 1
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index_2.m3u8
+
+#EXTINF:-1 tvg-id="NHK.WORLD-JAPAN.hk" group-title="News",NHK World Japan
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsEdmonton.ca" group-title="News",CityNews Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
 
 # Documentaries
 
@@ -276,6 +285,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 #EXTINF:- 1 tvg-id="Crime+Inv+1.uk" group-title="Documentaries",CRIME INVESTIGATION
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115547
+
+#EXTINF:-1 tvg-id="QVC.jp" group-title="Documentaries",QVC Japan (720p)
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 # Religious
 
@@ -561,10 +573,37 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="Premier.Sports.1.ie" group-title="Sport",PREMIER SPORTS 1 IRELAND
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115500
 
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68859/s68859_ll_h15_ac.png" tvg-id="Sportsnet.One.ca2" group-title="Sport",Rogers SportsNet 1
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49952/s49952_ll_h15_aa.png" tvg-id="Sportsnet.360.HD.ca2" group-title="Sport",SportsNet 360
+http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61714/s61714_ll_h15_aa.png" tvg-id="Sportsnet.(Pacific).ca2" group-title="Sport",SportsNet Pacific
+http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png" tvg-id="TSN.1.ca2" group-title="Sport",TSN 1
+http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61474/s61474_ll_h15_aa.png" tvg-id="TSN.2.ca2" group-title="Sport",TSN 2
+http://38.143.48.212:9981/stream/channelid/1391915230?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png" tvg-id="TSN.3.ca2" group-title="Sport",TSN 3
+http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png" tvg-id="TSN.4.ca2" group-title="Sport",TSN 4
+http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png" tvg-id="TSN.5.ca2" group-title="Sport",TSN 5
+http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
+
 # Kids
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Junior
 https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/96507/s96507_ll_h15_ab.png" tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Jr.
+http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="Kids",Disney
 https://tvpass.org/live/DisneyChannelEast/sd
@@ -931,6 +970,9 @@ http://44.32.200.212:5004/auto/v72
 #EXTINF:-1 tvg-id="ABCEntertainsBrisbane.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Entertainment",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png",ABC Family
+https://c.mjh.nz/abc-tv-plus.m3u8
+
 #EXTINF:-1 tvg-id="ABCKidsSydney.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="Entertainment",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 
@@ -1030,6 +1072,21 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 group-title="Entertainment",SKY COMEDY
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115448
 
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="CityTv.ca2" group-title="Entertainment",CityTV Winnipeg
+http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="CTV.Winnipeg.ca2" group-title="Entertainment",CTV Winnipeg
+http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV.COMEDY.CHANNEL.SD.ca2" group-title="Entertainment",CTV Comedy
+http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72484/s72484_ll_h15_ac.png" tvg-id="CTV.SCI-FI.CHANNEL.HD.ca2" group-title="Entertainment",CTV Sci-fi
+http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
+
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="CTV.DRAMA.CHANNEL.ca2" group-title="Entertainment",CTV Drama
+http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
+
 # Music
 
 #EXTINF:-1 tvg-id="Vevo2K.us",Vevo 2K
@@ -1073,7 +1130,3 @@ https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
-
-#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
-https://tvpass.org/live/VH1East/sd
-
