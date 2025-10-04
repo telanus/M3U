@@ -387,19 +387,19 @@ https://tvpass.org/live/new-england-sports-network/sd
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Sport",The Tennis Channel
 https://tvpass.org/live/TennisChannel/sd
 
-#EXTINF:-1 tvg-id="TSN.1.ca2" tgroup-title="Sport",TSN1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tgroup-title="Sport",TSN 1
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport",TSN2
+#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport",TSN 2
 https://tvpass.org/live/tsn2/sd
 
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport",TSN3
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport",TSN 3
 https://tvpass.org/live/tsn3/sd
 
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport",TSN4
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport",TSN 4
 https://tvpass.org/live/tsn4/sd
 
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Sport",TSN5
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Sport",TSN 5
 https://tvpass.org/live/tsn5/sd
 
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-title="Sport",ESPN News
@@ -411,7 +411,7 @@ https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Entertainment",ESPN2
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" group-title="Sport",Fanduel Sports Network Great Lakes
+#EXTINF:-1 tvg-id="FanDuel Sports Great Lakes.us" group-title="Sport",Fanduel Sports Network Great Lakes
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us" group-title="Sport",Fanduel Sports Network Oklahoma
