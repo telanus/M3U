@@ -1,20 +1,20 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz"
 
 # South africa
 
-#EXTINF:-1 tvg-id="SABCSport.za" tvg-id="" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
+#EXTINF:-1 tvg-id="SABCSport.za" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.1.HD.za" tvg-id="" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
+#EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.2.HD.za" tvg-id="" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
+#EXTINF:-1 tvg-id="SABC 2 HD.za" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.3.HD.za" tvg-id="" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
+#EXTINF:-1 tvg-id="SABC 3 HD.za" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.News.za" tvg-id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
+#EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
 
@@ -35,7 +35,7 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 tvg-id="France.24.English.us" group-title="News",France 24
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_147fd819-2499-49a7-ba0e-3be454cd6e21&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621809&url=888c939043d13a1b5d92995662b8ec20-6aea575adf85bb588f1d238ca2e66067d1f18b6de15c6ab0d17ae2e6412e08dc65887f0a413cbdadaba19487352bb5c0004d0edd1e1c110504dc96011401bbeff66dc89557589ca04e341a20017f93c3fa616c6f686218551900d88f417d70b38abdd92f9a13f552259d51aebfc7a0edc8ebe0cab357cd92e448d24873a819f145bc6870af1beb210c639be67f40a48a5a85796365c71f0b56369c7e8a43223a1126f6c97c765459c11d2ed564ad69ef1e08d9713a24137723045c5abca44ce4abe73a1ae3fa6e0e66ea52dba806fcb828a058810162f6ede96399b465d49bcf9ed8a4ed873d2c5c07b9c63b06e0f6513dc84d3a8c405137f8c122ab197b88184ff1b2243a3ef52993e60305faad48cbcf0be3fd3e70c03deb80e9ec652178be07ddc3aac25a6f4a88587f9168a2bff38b0b94407a9149969b67ba814e158cc5e67b095013cbd747c20c10d0efc3a7e9574c0bcb72f4e99cbe58b28f7c1d184df8dc1553f4b55e993ebc31df8a15e224b0a6de32c6e6f26e48decad5eb2bf0cb99083c62cb728feb9e3b4fb7b89f161f5dda44d9c2cfef8cee7c78ec1b1e3b7b8744e897ed2e9b385e5b528c04a88a0a15cf0272eb02fabfd34e599f18313dc20e9a2c39e33c2535695bce10446a01123d6652f0afd418a85cac667b3075a44d962dfe3c6226efa52f0fe779bb33e27c3c0921557e57dd809a4c8668b13dc39b57912f3f314b9035b2decc38d61c4cd6e417ce4d6e12f981e7db21858c1142829bbf6b74b67a8e320d62767eeb74bf3c704914e332a4b7f3305b02630033de604ccc7df2a27f703dd8908e943a9e4605eb82d47eae88c072d4059e22b96231ad77c9b992df28d921a024a2f1c7c8b6c88a5a5c0b691ddd5f0a020c75dc2285ff614673297e2ce10df3ad847277f59b24d68cf6f4cb4a6d110a72b04bfa5a13f55c61867446e93154c33ce7676e21d62318ac33e5e2ce5433f0dfb240f8ae5cfd70c2a3429a6372628e54752d93fbf8ce5cd2acb53894b89f5fb6810dadeddab74b596a4f23cd0c04b30935331b5e57660a7c2904959ad6874583e4e6df453e7af6d7553f95b8048391eac78293acf6fc19fb943e00b5d5b03c780aecd0daa82a39e8c449494a54cde2c55d0257df4e7a316aa9da94fc1270379518d1c0cf2e172da907173adf2fc3529ab3d1bfe278e50118bcd1f4003c8ff52959bb6cd3108b6be82a2c58e51a8ac9f4c7be417bf5da12ae8a8e83d54698b67ec10c6f30e770530aa49e71e56ec08b9467267584d052ed5262aaaae827eb703692bdda8a7b2a0941b21633b05b9f43a7c450f4f6f63cf2af10ec01add04a28472730a850a2d9a6d6c34b02106ab670e1681d477752149b2fb134755efaf981899c4188549191d2904d500b4d371f50c10bb27ec5a42aba81a21909b007a8f70e3f4c6c1f5f0fa2d66ed2defa7eefaf070b3206e6ee030efab07c4e80dd75bff0f8940bb00b1faa0378893207f3a875997a86ae1095d553171c12e4e844e5398b164fee8f9ac7747e0d0ab9d5fbed7c6c2204e65904d41ff687a6f0e9f35b718b52aa9c50e873d073bd24e64fe88be81cd3066cd6d7b1d3ede1903bc1f6e8c67612a97d5990056c33263c4dc0ea2bf58859befae13a907b9c51d9b549542f3925e8f0b859c32275781fc43340a9495a404bb720d2e6ec19887b98a05c4308094c936e34c9830555f21750a23d3c3a33c840f9a8d42ac0a69b2e24ed58a3e2b965922cbc74036694c3bd9aac694b43dbcc11da4d03407a9901f50806541838e1444ae0c7ca86a1280e7b37b5536be50e00cc21e7e3771adecfdcda3c04259b629d926a45abb962e92bd888fbf1e56ff71220f137c7bc8252c69b95bc6b2e92835420cefebda29c34198b33862d2dfe100368ad6764341eaa12612333ada6cdab34f60ea5749fa6ea49dc1d0e4d470ad5548543074667a82a619082785e3aef4facd33f2914ca6d88f12936a8a9eec30257296c3729c8024b52f292fdcceed29efb526e2a7bd0138c5198e96721be5d46e52d7f5968576c1cf1f289be01aed7f45d448058f1860191be071eff99e15b8bf3ac98401d9b7543e7cd31125e35fa12e48dc7b3e96a22d98a4a75262b25928c99f0d32882c289bef8f4119a4669f0079d695219488457794a2fbd20ce4cb05df2e8022881310c77702a9e59e39068dab00f1ee2218e444b3b711d09fe4362b9d8a11f9f672f6db8b7a9a720e1e03cd7d801b93f9d3ed7909f07aa424feb539b705a808e3bd14fe6a2e985d4393fc544d0540446c8ac1b39175e6bdf90a80f53de8b86e56a057a66ab8d821390e485077bfcdea79b299e6a1885a5143a24bac4cc1c8ee016bcad5247ea09498196a245be302f238d1881b1a05d296549bee6c718ead09fdd2cf0e65231756d760234989767b8f04525dead304652ba0738b4067d39e5d73db1feeab26e4597d26f9cc28e33b7f62d28a1a06a910c0755e43d611a2f73d704e3a943b47ff1f822eec62602b35d91a3cd34f4865e0d35bd8eec189252d5be628080dcc6b2c22bff594aedd2b26d0d593576d1e45d6054c07773e85b8eec2928b3bd9be9514412c4b44c829130a07bea96458dbdd85e78019ef358906e17d64914901052f0e486f0ff88d3cdae570dab62c485440ab6e1b3fe7a261a638aaadee223c46f09ab04732a6706f2b47d389a8e545cfcac8a141d38e2d14a17da8993d09e8a7df6f8e9ee9d15702d3cf0923095a13b84c09c90e54ae29a84f1a62fd9b5cfeda0bc0507a0c56b1bfa458c98445e9e26e877635b6c80c19d0b77a32ca3f43a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="Russia Today.za" group-title="News",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" group-title="News",ABC (KABC) Los Angeles
@@ -83,7 +83,7 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="News" , CBS News 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
 
-#EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht
+#EXTINF:-1 tvg-id="RTV Noord.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht
 https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" group-title="News",Bloomberg TV
@@ -124,7 +124,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2M
 
 # Documentaries
 
-#EXTINF:-1 tvg-id="4K.TRAVEL.TV.distro" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
+#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary
@@ -157,7 +157,7 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNXfMHS/dateline.png" group-title="Documentaries" tvg-id="Dateline247.us",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LJJ9gNW/images.png" group-title="Fashion",FTV Swimwear
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/LJJ9gNW/images.png" group-title="Fashion",FTV Swimwear
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FashionTV
@@ -265,10 +265,10 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="Sky.Arts.HD.uk" group-title="Documentaries",SKY ARTS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115454
 
-#EXTINF:- 1 tvg-id="Nat.Geo.HD.uk" group-title="Documentaries",NAT GEO
+#EXTINF:- 1 tvg-id="National.Geographic.HD.us2" group-title="Documentaries",NAT GEO
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115531
 
-#EXTINF:- 1 tvg-id="Nat.Geo.Wild.uk" group-title="Documentaries",NAT GEO WIld
+#EXTINF:- 1 tvg-id="National.Geographic.Wild.HD.us2" group-title="Documentaries",NAT GEO WIld
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115533
 
 #EXTINF:- 1 tvg-id="Discovery.HD.uk" group-title="Documentaries",DISCOVERY
@@ -283,7 +283,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="LoveNature.au" group-title="Documentaries",LOVE NATURE
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115541
 
-#EXTINF:- 1 tvg-id="Crime+Inv+1.uk" group-title="Documentaries",CRIME INVESTIGATION
+#EXTINF:- 1 tvg-id="Crime and Investigation HD.uk" group-title="Documentaries",CRIME INVESTIGATION
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115547
 
 #EXTINF:-1 tvg-id="QVC.jp" group-title="Documentaries",QVC Japan (720p)
@@ -291,31 +291,31 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 # Religious
 
-#EXTINF:-1 tvg-id="God.TV.USA.us" tvg-name="" group-title="Religious",GOD TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Religious",GOD TV
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_3099978/lNHMOQOu82uZfELRwKXs4g/1756621143/media_mpegts_0.m3u8?channel_id=50859&source=WebApp&app_id=5282&device_id=3590565171-7a1c61b6460f153214383e55b0184943&lcp=3&client_id=387699324566190188&play_id=1756534743341606
 
-#EXTINF:-1 tvg-id="Catholic.TV.(WLAE-DT3).New.Orleans,.LA.us" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religious",Catholic TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Catholic_Faith_Network_2018.png" group-title="Religious",CFN Catholic Faith Network
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Daystar.Television.Network.HD.[CHARTER].us2" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
+#EXTINF:-1 tvg-id="Daystar Television Network.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",Daystar Television Network
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/588480.ts
 
-#EXTINF:-1 tvg-id="TBN.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN
 https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708
 
-#EXTINF:-1 tvg-id="Inspire.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Inspire
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-id="TBN.Teaching.and.Worship.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Teaching & Worship
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Teaching & Worship
 https://amg01700-tbn-amg01700c2-tbn-worldwide-966.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-tbnselect-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-id="Women.of.Faith.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Women of Faith
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Women of Faith
 https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 
-#EXTINF:-1 tvg-id="TBN.Africa.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Africa
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Religious",TBN Africa
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/OSANTCwg/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 
 # Auto
@@ -339,13 +339,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 # Sport
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",Dubai Sports 2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",Dubai Sports 1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",Dubai Sports 3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Tennis.Channel.en" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
@@ -435,7 +435,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="UK:.Red.Bull.TV.be" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-logo="https://trace.company/wp-content/uploads/2022/12/TraceSportStars_Logo_Colour_578x278.png" group-title="Sport",Trace Sport Stars
+#EXTINF:-1 tvg-id="Trace Sport Stars.uk" tvg-logo="https://trace.company/wp-content/uploads/2022/12/TraceSportStars_Logo_Colour_578x278.png" group-title="Sport",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",GolfPass
@@ -570,7 +570,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="SkySp.Racing.uk" group-title="Sport",SKY SPORTS RACING
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115493
 
-#EXTINF:- 1 tvg-id="Premier.Sports.1.ie" group-title="Sport",PREMIER SPORTS 1 IRELAND
+#EXTINF:- 1 tvg-id="Premier Sports 1 HD.uk" group-title="Sport",PREMIER SPORTS 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115500
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68859/s68859_ll_h15_ac.png" tvg-id="Sportsnet.One.ca2" group-title="Sport",Rogers SportsNet 1
@@ -620,13 +620,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids", TOTALLY TURTLES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7353a868-625c-11ef-a6ca-c88aee40e168&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=39ae4f06-1303-4d78-929a-561865a888ec&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Kiddo.us" group-title="Kids",Kiddo+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",Kiddo+
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" group-title="Kids",PBS Kids Hawaii
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",PBS Kids Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr-east" group-title="Kids",Nick Jr.
@@ -659,13 +659,13 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="Kids",Disney XD
 https://tvpass.org/live/DisneyXDEast/sd
 
-#EXTINF:-1 tvg-id="ABCKidsMelbourne.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
+#EXTINF:-1 tvg-id="ABC Kids/ABC Family / ABC Kids/ABC TV Plus.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Tiny.Pop.en" group-title="Kids",Tiny POP
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug.Kids.ph" group-title="Kids",Moonbug Kids
+#EXTINF:-1 tvg-id="Moonbug" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/480p-cc/index.m3u8
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-674487c3c583cfbd5f0e1da9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b812cca-c2cc-4020-996f-d5bc3c87ea9c/PLEX_BarbieandFriends_ColorLogo_Dark_Background__1500_x_1000__-_Ana_C_Garcia_white_textrdx.png" group-title="Kids",Barbie and Friends by Mattel
@@ -683,7 +683,7 @@ https://bec9445e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-id="KartoonChannel.us" group-title="Kids",Kartoon Channel!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae
 
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-logo="https://animesuperhero.com/wp-content/uploads/2024/05/MeTV-Toons.png" group-title="Kids",METV Toons (Alt)
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://animesuperhero.com/wp-content/uploads/2024/05/MeTV-Toons.png" group-title="Kids",METV Toons (Alt)
 http://visitmy.collegefan.org:80/7403256176/tVEtuxNXQ5/814408
 
 #EXTINF:- 1 group-title="Kids",CARTOON NETWORK
@@ -709,31 +709,31 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-id="BVN.nl" group-title="Entertainment",BVN
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 
-#EXTINF:-1 tvg-id="RTV.Oost.nl" group-title="Entertainment",RTV Oost
+#EXTINF:-1 tvg-id="RTV Oost.nl" group-title="Entertainment",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://i.ibb.co/VpLpMw5/images.jpg" group-title="Entertainment",ABC TV Melbourne
 https://c.mjh.nz/abc-vic.m3u8
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.us" group-title="Entertainment",FX Movie Channel
+#EXTINF:-1 tvg-id="FX.HD.us2" group-title="Entertainment",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/sd
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" group-title="Entertainment",FX Networks
 https://tvpass.org/live/FXEast/sd
 
-#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" group-title="Entertainment",FXX USA
+#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="Entertainment",FXX USA
 https://tvpass.org/live/FXXEast/sdv
 
 #EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" group-title="Entertainment",ION
 https://tvpass.org/live/IONTVEast/sd
 
-#EXTINF:-1 tvg-id="MeTV.WJLP.New.York,.NY.us" group-title="Entertainment",MeTV
+#EXTINF:-1 tvg-id="MeTV Wjlp New Jerseynew York SD" group-title="Entertainment",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment",Syfy
 https://tvpass.org/live/SyfyEast/sd
 
-#EXTINF:-1 tvg-id="BBC2.hd.uk" tvg-name="" group-title="Entertainment",BBC Two
+#EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-name="" group-title="Entertainment",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb_output_0.m3u8?session=eDJ6f6agZPePiFAmiGKUku
 
 #EXTINF:-1 tvg-id="BBC.Earth.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240520T214740SQUARE.png" tvg-chno="3560" group-title="Entertainment" , BBC Earth
@@ -760,7 +760,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622eddb7d7
 #EXTINF:-1 tvg-id="BETPlutoTV.us" group-title="Entertainment",BET Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",BET Pluto TV 3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",BET Pluto TV 3
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77895fb3add2000735ac29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=49d16c0f-92e3-496b-833f-1282e54f8c15
 
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" group-title="Entertainment",BritBox Mysteries
@@ -778,10 +778,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-id="plex.tv.Classic.Doctor.Who.plex" group-title="Entertainment",Doctor Who Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd
 
-#EXTINF:-1 tvg-id="NTV.na" group-title="Entertainment",NPO 1
+#EXTINF:-1 tvg-id="NPO 1.nl" group-title="Entertainment",NPO 1
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:17:03:A7&stream=151287&extension=ts
 
-#EXTINF:-1 tvg-id="NTV.na" group-title="Entertainment",NTV
+#EXTINF:-1 tvg-id="Nambian Broadcast Corporation.na" group-title="Entertainment",NTV
 https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
 
 #EXTINF:-1 tvg-id="3.za" tvg-logo=https://d2umpap7mmclxt.cloudfront.net/content/1717572020354-OUTflixPROUD_Logo_Color_1080x1080.png" group-title="Entertainment",OutTV Proud (RSA)
@@ -793,7 +793,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 #EXTINF:-1 tvg-id="Star.Trek.us" channel-id="pluto-5efbd39f8c4ce900075d7698" tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" tvg-chno="840" group-title="Entertainment" , Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Star Trek 2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Star Trek 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0
 
 #EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Entertainment", Star Trek: Voyager
@@ -811,22 +811,22 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Entertainment",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Action
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="UniversalCrime.us@East" group-title="Entertainment",Universal Crime
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Monsters
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Universal Monsters
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Universal Westerns
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="Revry.Plex" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Entertainment",Revry (RSA)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9/variant.m3u8?x-plex-token=maL3nY3Ahs4kJQziWyzh&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_2811ac8c-1ac5-42d7-a1eb-d6101a488119&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756590226&url=07905d42fce26049bf4fcff5b7ef3e4b-f2c2760f79b90c09aa74059e599453372cfe43f1267489f8d11f2291f35e28549d5d71c8bad59d3de8bbf95abb9b9d1aef0453fa26fbfcf814ea4cbe752f90121e75b0163fd1c875d865ae4c385df2ddfa7a1001e61ee89d35b1829c9ab1c0f69fee9edbac9aebb842b8cfbad78cc09c0e79e60abc2f2c34dc3e5844f4bccbeb8c7b3af056392892c504c7d99cec266fa1a91b67e2a003fc742606cbc23e7b780ff153914cc81fcfc0581cf92ade0af29c619d43e843b4d4b315b5c60d724ad418e51ce9fe33a610851cdf7ac1d9fca4
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Farscape
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Farscape
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635195e9ccee3e1547a8831a/variant.m3u8?x-plex-token=maL3nY3Ahs4kJQziWyzh&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_66e00ca4-3cc6-4d21-bf7a-4a281e9fce7a&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756590739&url=34c0300a78a12c0a073498496078af58-4d2deb026ddb7de43205071e0b4ceec172322c7f9f4641874c9d8161555468c4d8ebe6b1e23f7016eba5e038758b5694d5e5ce31cb79eefc0e074b9df1dad43a619d2b08f50f02fae9251336aac4d03b0b6b0a316318b086c675eb185a436c0de2984308187c3fce0801d912e52d2c693c02d69a8a6124f9ddb1eb837f747102274248ab296313d50e1b6321d547a890c2868e1f63f7f688d94c82406731b76a899c90b08ee9b60e04017df964613efde50b2d451f104ae2d02ec0b527238356e8a043cdc4031be18b73346956c358b2
 
 #EXTINF:-1 tvg-id="Frightflix.plex" group-title="Entertainment",Frightflix
@@ -856,16 +856,16 @@ https://tvpass.org/live/BETEast/sd
 #EXTINF:-1 tvg-id="BET.Her.us" group-title="Entertainment",BET Her
 https://tvpass.org/live/BETHerEast/sd
 
-#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" group-title="Entertainment",Bravo USA
+#EXTINF:-1 tvg-id="Bravo USA Eastern Feed SD" group-title="Entertainment",Bravo
 https://tvpass.org/live/BravoEast/sd
 
 #EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="Entertainment",Cinemax
 https://tvpass.org/live/CinemaxEast/sd
 
-#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us"group-title="Entertainment",CMT US
+#EXTINF:-1 tvg-id="CMT.HD.us2"group-title="Entertainment",CMT
 https://tvpass.org/live/CMTEast/sd
 
-#EXTINF:-1 tvg-id="cnbc-usa" group-title="Entertainment",CNBC USA
+#EXTINF:-1 tvg-id="cnbc-usa" group-title="Entertainment",CNBC
 https://tvpass.org/live/CNBC/sd
 
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed"group-title="Entertainment",Comedy Central
@@ -964,16 +964,16 @@ https://tvpass.org/live/TVOne/sd
 #EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Entertainment",USA Network
 https://tvpass.org/live/USANetworkEast/sd
 
-#EXTINF:-1 tvg-id="7TWOBrisbane.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Entertainment",7two
+#EXTINF:-1 tvg-id="7TWO.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516" group-title="Entertainment",7two
 http://44.32.200.212:5004/auto/v72
 
-#EXTINF:-1 tvg-id="ABCEntertainsBrisbane.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Entertainment",ABC Entertains
+#EXTINF:-1 tvg-id="ABC Entertains.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Entertainment",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png",ABC Family
+#EXTINF:-1 tvg-id="ABC Kids / ABC Family.au" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#EXTINF:-1 tvg-id="ABCKidsSydney.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="Entertainment",ABC TV
+#EXTINF:-1 tvg-id="ABC TV.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png" group-title="Entertainment",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png" group-title="Entertainment",TVSN
@@ -994,10 +994,10 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
 #EXTINF:-1 tvg-id="food-network-usa-eastern-feed"group-title="Entertainment",Food Network USA
 https://tvpass.org/live/FoodNetworkEast/sd
 
-#EXTINF:-1 tvg-id="WeTV.us" group-title="Entertainment",WeTV
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" group-title="Entertainment",WeTV
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",TLN Media San Francisco
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",TLN Media San Francisco
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png" group-title="Entertainment",NEW K.MOVIES
@@ -1009,16 +1009,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fd
 #EXTINF:-1 tvg-id="CSI.us@SD" group-title="Entertainment",CSI
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",CSI: Miami
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",CSI: Miami
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e0e63fde020007835cbe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df71-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a93e1bf0-0e0f-4cc0-a79d-1cb026b180ed
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",CSI: NY
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",CSI: NY
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Sci-Fi World
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Sci-Fi World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Space Series
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Space Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/250px-Retro_Television_Network.png" group-title="Entertainment",Retro TV
@@ -1060,7 +1060,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 group-title="Entertainment",COMEDY CENTRAL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115456
 
-#EXTINF:- 1 tvg-id="Gold.uk"  group-title="Entertainment",GOLD
+#EXTINF:- 1 tvg-id="UandGOLD HD.uk"  group-title="Entertainment",U & Gold
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115458
 
 #EXTINF:- 1 tvg-id="More4.uk" group-title="Entertainment",MORE 4
@@ -1072,19 +1072,19 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 group-title="Entertainment",SKY COMEDY
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115448
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="CityTv.ca2" group-title="Entertainment",CityTV Winnipeg
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="CITY.Toronto.ON.ca" group-title="Entertainment",CityTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="CTV.Winnipeg.ca2" group-title="Entertainment",CTV Winnipeg
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="CTV.(CKY).Winnipeg" group-title="Entertainment",CTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV.COMEDY.CHANNEL.SD.ca2" group-title="Entertainment",CTV Comedy
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV.Comedy.-.East.ca" group-title="Entertainment",CTV Comedy
 http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72484/s72484_ll_h15_ac.png" tvg-id="CTV.SCI-FI.CHANNEL.HD.ca2" group-title="Entertainment",CTV Sci-fi
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72484/s72484_ll_h15_ac.png" tvg-id="CTV.Sci-Fi.ca" group-title="Entertainment",CTV Sci-fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="CTV.DRAMA.CHANNEL.ca2" group-title="Entertainment",CTV Drama
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="ctv.drama.ca" group-title="Entertainment",CTV Drama
 http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 
 # Music
@@ -1107,7 +1107,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="VevoPop.us",Vevo Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
 
-#EXTINF:-1 tvg-id="VevoRetroRock.us",Vevo Retro Rock
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6",Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mtv-us.png" group-title="Music",MTV Pluto
@@ -1116,7 +1116,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 tvg-id="TraceUK.za",Trace UK
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66be8cd4871131188099527e/variant.m3u8?x-plex-token=maL3nY3Ahs4kJQziWyzh&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_0fccadc1-6616-41df-b53a-df2b02b300aa&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756590913&url=ad0db8156ade4290446ed3dd6a676d7b-5067efd9a362fe76e19ce196b9d2951d9c2d04bb141f98148b24a11c7036ec0f6a7f1d7ca504aa171da9c85787353965cc5325208b9bba84ad95a6ec47aaa7c5bb950a7bb3efdf39bba4154f5524a8c56ce0210137e43ecd1d69db36313852db1e7a8bd6e667aec974f0c25dccde227d83509bf0f672a9c91a71c0e587f2cecaca223e03bd9c589dc130f772d4077805b7a8c030041085c608dca8201ed34475b214011c23375a4e0299e86b430c54be414eac0fa457850fe3e6ab84a2e87c387ef714939f446cdbd7cb02f8be90ddebf46d34cd9b7d2a8707e8d857cac13363e8fc930a54a76f6375c7a6c0c8e5bd9261e9f09afeb480ae0c524d0052d176e207544e65662e819e221b73256cfb742b07468830c8f2256e2abee1b60bd31c95d803adfd659dab52e0e1888ad42bebd0c58c70f975686e6216d25b8b8aae6820e009031194ab0c9d2f479db766d3d5b268d6a637cb8f2e30ae94bfc172af0ab95a97ddf05ade3b4f8fb014e0ff1f47dceef9334bbdf5eaa29148e94d8fe5b8e65f3a7dd8767e9104d3bdc2bda1d46d5d6e80ed346858f44de7afc61e49ebcd7840d89561fa56898409606979ac3bf4deb9d944aa2b3a841ab420801ec845ef7107331ee500f1022a7e1e7dc6f40e1a531370c412122f69c007666d27afc2670060a08b9c1a6991f90c24df9e642fd2a2bc094d23f6b3f942eb1c29438db67e21193cc2f13f1bede03cafba7fbdb3f85819bd274306cc847937cb9047c27aa929d5f7a17673c8d697ec5eb2f82cc87d5eba3159076ca8f104441ee67bde1f1668d29d720d5b82537f2669afe3e89bdbe6ec2f1bc34b5f02d0eaa46efa9f57eafecc8fa6505405d2c45da2a7d69553f08fac31b8e8235bd493986b36c8a93b0955a70c98bbe3e1da8beaa341f6935edadabc628b34123c0391979a140c76b3e65d588c9731893ae1eb41177f9e1cb44abefa2be123ca4ff573019e81067d1b46d358e97dddfaa2ce8d4e0c51f90a7936f42f8f96a4ddb5ac1b36841f8b8fea9d201979e686cd9251f50f92708bc3517282d4d78ff2e94d8d0e3a0d4bdc4b1e69b0b47fa737d12698ac7ac2f06f1546a2cdb62e64a2a0bb9616ae6dfd3552aebc5c38a6e014c41eae4db0e6ee73a05648350933f6119d61ec6d06f8a9b13affc300dd6330181b3485728890a89ca6bc6b58a87731cff08f9d557040d0c21bb6c21f33a6b5cc884024958dd6178516b4f7cae85b16cfdfc689421c96a9d2106db7194a7a93921793df6f5711eac8d2802d797772c6557e2885bfb05271fb8524fc34e95ff75c808c7f8bf26cf48850afb33b024580e096f08ba7471b0bc315a20df380057c832a72ae147f502680310eb801dee44d7c5b27f41d0389ff95f5a3bb809503d7dffd2254e1700351973b937992abcb8211d0cc3fe74d0efec8b8437a4269a0c762b989394bbdce43d29f865a7d08a1486097bba7c00f221ee9c985f68ce678037fec694e352a2990a8c261a5730a53824dee298a3621992a16b013aaf14f0ed43ace77fd7e6427c02e2a8a27535fb7c9e2fdc7fb140b40f38973b28ace16ecaa48d4a22856a93a807cb329861b04830ddce8288842e74ae03b90a55690c1129003bb6a22770c6f685ac7cfce792ef86b2210b56d9970c1183c01ecb4f11866662e0e2ad0b39827efed90c02ae3fef61f8c9062576190f4153370fbdcebfb8b2f6a9c3a1dd9c669c9272abcebc36609810c6f0136ade9aafa016cce498d3928f79388278d488364a2d2069ee7584071915cfcc3379dcf710b4bf861b26ccbe587c080286eb1657abf41f557155fc8579018fea0153a3d13ccd894b95fcc8a254802be0b15167936e03353046b6fa330cb1365c399b8c964f1185082659b6b7079ddd3a559761d7c45b3c80e07e0cdbe22a8d385ee50c1d4113cb60a2fdd76301edef6e068bf1cec9f324f566d1f13e1bb0338b5c814f850c80bceb45b6b5239084b63e6f2cc7d98d6ccf09227adf5e7739e091dc722e934f1c720af0c8caa6253c91eff68ecebe1b2749c49fd216c473f161b03bf3f3ba56744e6be6a8e7f064dc265ce0039918a32cf15050437f0bd17f0b3cf2b3d2c850fd199d636234ad6a9e03debd8d156d53ae94b76452274ee6510ba2fd1589554bf6053da530a7bfdf368c5309dd4c52f01bf731a5c30859001a9194211c37e176e728e516dce14cd2dafa639f01516f468ef06caf0a064ecb4e55c582f759c24a7340b7f4b22a6c53a648a5e1c414a3deb840309f2efe8e7ec32391d597b9bdeb69eaa564c6ed976e532f97b481ddb3662c51057941c6a2ba4ddad742c3163f246d69f167a913c6eaffe9111104bd11a6d85d0a9bd16c88714267fa4fdf4fa9605d872b0f73fea163c8a9df9e3cbc946c68368c6a6c615a7906f1bef4793a432261c63f9e1dde92099a4e07387d43b54f276622aabea0bdcd75ce5e574ba1f054313c1b1cd3b19b20111a0db08d1518635c8ecf5cf12523f5c8b5be88e6fe92605ea17eadcc74f1a44b26ec61b9c16c771e02220064e9697c2c71065906eb06b8dec4c9dc537c2b09a0802d8fc05fb0b041570aed33456fdaec4800b3c9b7f4f1212286bc5d98186cabdc08a99ebe40d37a3d1e5effd0e520eb7751995f276402f5e31377a2dfaeba6735c19290c85ee8f8d416a76275dcadbbfee66d6a3eba92f4f125a6408bb5bc7cc5dc9f449cac58249147d66ec31013ece6413fecdf73eb89dd541d7c46818095e1605fd0816a3d58992b23a3036eca9f87c1b21d65de0e444a0bc6a26c13cfd6116faf3e2ea7a84c8707a7dc41b3aeda043e57ec6c482f5b1d51db37e921e729911eec93953e2bd5ae074d75f
 
-#EXTINF:-1 tvg-id="",TRACE Brazuca
+#EXTINF:-1 tvg-id="24.7.Dummy.us",TRACE Brazuca
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6329474265c8569187176338/variant.m3u8?x-plex-token=maL3nY3Ahs4kJQziWyzh&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_cce306d0-3d24-4c21-968b-eb06ec6bdece&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756591346&url=892b65653ec01c8f4889112688201dc6-e6d54431cc10727e2b00ba392489505731e4e9a000afa93b71bbb3855cc9ae8183dc6c986c2493ded0b945c6b82aeb8c5570852990797813c10112eb40ae355206e2378288c42f79bdd857916ad2e72061826e4c9969f346816e621c49bd7b2f587c082f2ad52404bcaa93dff6ecea4b31374e2a7c7499ec0f638f842192a2e19038cb99583f97686aa1ce187d7feaff49b752cb38e328fb3642df99e2812c3cdffa908c6210408a892003f3f2da19245e89fa26238d8e06ce992d42288efca0d7dd4ac577b164a06032f70d709f848d2a1a2c93fa0f48070ff9bf419814717628860fddb793c3b121f9263fe33d8d96c15639ebe75ab63129bead39db9dd0ff96341e31e34cec4af8ea5ab746a7ce479015da9faa210b10d5ccee0d66e5dbf699ec993011d3575ec6814c4a0b286f9a129cda0a81cd6f361e3f569571ad7d6a2cfa7b66f71b970d76f48146f3feb528fa7b5c63575030f2156b2ac4dffb721bca4d3900e600673f19006c32efe6d0b5da6110dc8f178a53a47b93e26f3cff93c55d9df9b67894d25e3c93e7a6b2bcc2967565423a521e47e0632b9b3bafe99092a93b76c7df0200d94f7da047f9ee3b9086660572267fe6a027bc28edc063626a5e21d0517e954fd7f679dc637ec1d2d7b6a8f65ed2e3c2f322ec45e085d0d11a088efba66ecc201b5296485c890f0a43b9a1b17ecfe92ed1cd93557a75cbcff3ade242f0461d8da79715abf9f41f9c3a0e72203260f91560ec87861c6eeb7557390222205e4c630b5484d7556ba5141210e2b7df6cd16f8e5ec8abf5de03c82de72e51cf870d7d64fef959c4dd7dd2898f874575219b7ccc344cddedc9bf6a9b0892038eb1ad846c3d22a68f3feb89752cde68a01d8fdf70224aeae9de70f54d9f7ca5d161c2be8f477f79c4111e130dbd5fd9c4a88debd7e8eed4dd5af889dae7fee9f5015e61a14bb7ed4497bd562aa182f94aebbf12b3862e9dda6ede4fc7518e7b40dbf533b05eea4a50e53948200734d5a2c1e9ff36d624c4eae63f279c13a5da25080adbeacfdc0045e4aa3032e5509343e7e82262228cb8740b218673b6c49600e467fdf18408e2dcf5eb7fb79979586148c6782a192b28fd61f32011ffe40d68b05b628eb8089e3c9298ec43c50ef83fa167c293b1fe3dbe9301e6d04c20711e715de2780af327f2328ca7fd516239056e2791d73a6221d49d0defa1d400fb5a5d9c7ad138f9a54cebf31fdac9f08611d1da2a06c8a96935251860934738bda7d61bb0daff5046c6c5a94731fbd75d105578beb70807b71c569a6dbc12b6fa1296d59a0da31d2de946a4aaf6671dec236ddb00db472460c335f8e100816c2b84108a806e8a4457771cd1a237d4300eb2f0a7462433dcb46589bbb34fea84deaa900ae98fcca1483f87cead5bc91b2cc44ccbc53c6b06185e53a4feb3d7a3d3d7a5dcee7be96e7866a52ffe1c3033223c8017a288be89ca7d71acb89346edc401c67a0eb8024fb9daefefe364a39d3e25ea50098964ec87701242e6492da6ce977ab62339b6d1ec76743cc57003cd6df37110f6242b4420609e03701d80b75806c1724c50db454a71e13c2ed40ff60798e047d347dce085e24f6066fa340dbd18e6b8aa985da44c31ef1a71fa77b582f77e50dd5271b632f57f930c87ed38834acd6aa99dcee88885a28ccb006cabb4f4e0fdb8ecbd1fef2dff2d42e3c75382ddb41265fc5c824184b0f21051a0e9d75c0ff2b0201cf4fe5248ce1850aca9bcd09f331590d2df204cdb599be6ed64444308d7aedcbfb59c56169f7ef709bff452e50f1fd4122b48dd777c8d03c9a3bb3175da7d2c92703f26880afe261730c646cd72a118b268f440e2c5893a13b88c970ed3a3e77815a07137dad8
 
 #EXTINF:-1 tvg-id="kpop+.plex" group-title="Music",KPOP+
