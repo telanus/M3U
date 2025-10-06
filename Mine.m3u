@@ -575,9 +575,6 @@ http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Junior
 https://tvpass.org/live/DisneyJuniorEast/sd
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/96507/s96507_ll_h15_ab.png" tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Jr.
-http://38.143.48.212:9981/stream/channelid/946080634?profile=pass
-
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="Kids",Disney
 https://tvpass.org/live/DisneyChannelEast/sd
 
