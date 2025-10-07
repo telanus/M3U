@@ -384,7 +384,7 @@ https://tvpass.org/live/ESPNU/sd
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Entertainment",ESPN 2
 https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" group-title="Sport",Fanduel Sports Network Great Lakes
+#EXTINF:-1 tvg-id="FanDuel Sports Indiana.us" group-title="Sport",Fanduel Sports Network Indiana
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us" group-title="Sport",Fanduel Sports Network Oklahoma
@@ -629,7 +629,7 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="Kids",Disney XD
 https://tvpass.org/live/DisneyXDEast/sd
 
-#EXTINF:-1 tvg-id="ABC Kids/ABC Family / ABC Kids/ABC TV Plus.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
+#EXTINF:-1 tvg-id="ABC Kids / ABC Family.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="UK:.Tiny.Pop.en" group-title="Kids",Tiny POP
@@ -940,10 +940,10 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="Bravo.Canada.ca" tvg-logo="https://media.starlite.best/bravo.canada.ca.png" group-title="Entertainment",Bravo
 http://38.143.48.212:9981/stream/channelid/1866338186?profile=pass
 
-#EXTINF:-1 tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="Entertainment",Crave 1
+#EXTINF:-1 tvg-id="Crave1 - East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="Entertainment",Crave 1
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40656.ts
 
-#EXTINF:-1 tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="Entertainment",Crave 2
+#EXTINF:-1 tvg-id="Crave2 - East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-2-ca.png" group-title="Entertainment",Crave 2
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
 
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="Entertainment",Crave 4
@@ -1036,13 +1036,13 @@ http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="CTV.(CKY).Winnipeg" group-title="Entertainment",CTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV.Comedy.-.East.ca" group-title="Entertainment",CTV Comedy
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV Comedy - East.ca" group-title="Entertainment",CTV Comedy
 http://38.143.48.212:9981/stream/channelid/874242496?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72484/s72484_ll_h15_ac.png" tvg-id="CTV.Sci-Fi.ca" group-title="Entertainment",CTV Sci-fi
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/72484/s72484_ll_h15_ac.png" tvg-id="CTV SCI-FI Channel SD.ca" group-title="Entertainment",CTV Sci-fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="ctv.drama.ca" group-title="Entertainment",CTV Drama
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="CTV DRAMA Channel SD.ca" group-title="Entertainment",CTV Drama
 http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
 
 # Music
