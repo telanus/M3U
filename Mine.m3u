@@ -259,8 +259,11 @@ https://c72595b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1301/lg/e3d391/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bondi Vet
 https://5fc0619ee52c4b329c74021080a23251.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_BondiVet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",QVC Japan (720p)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",MoreU
+https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/4d111ae6-b6de-4bc4-9e01-59fb7180ca8f/3.m3u8
 
 # Religious
 
@@ -299,11 +302,20 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-id="plex.tv.SPEEDVISION.plex" group-title="Automotive",Speedvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 
-#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" group-title="Automotive",Motorsport.tv
+#EXTINF:-1 tvg-id="plex.tv.Motorsport.tv.plex" group-title="Automotive",Motorsport.tv Plex
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb/variant.m3u8?x-plex-token=3JQ6tQsm-YMvZ2PZA7z3&x-plex-advertising-identifier=&x-plex-client-identifier=742c5731-6e96-4876-96c2-089a353cc8f8&x-plex-playback-id=p_0e06c274-cc27-49c0-9dca-24c05120c893&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Ubuntu&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Firefox&x-plex-platform-version=142.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1756621363&url=7ae91b4377ccb553615f4d3645069c94-5c25234141da32ea0548319da2dc5dd2463d59cde6ca93348f1fbb554f461e9c675a884280bb6b1f08fbba3a21d242d81b08b95403926060e0532df2f23f2a068fedb0b1050629ca4b8690ac8845d904c6f131bfcb58c722f43489fb84f361dad1ed4d18819d02bd021232d397eca45f4608c8a4e6f2c431635bf7e6058361ae1588c9b9a4488f60bde1141ca3fa1588d17e970a426ccc664f84e0d8e6e39973
 
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" group-title="Automotive",Motor Trend HD
 https://tvpass.org/live/Motortrend/sd
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Motorsport.tv (Freelivesport)
+https://7daa9e4f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/513f7ddc-51fc-491e-a723-1cfd14d7c48f/2.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Motorvision
+https://stream.ads.ottera.tv/cl/251008d3iv2h53hf3756rrik1g/960x540_1927200_1_f.m3u8?i=906_2020
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Nitro Circus TV
+https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/6a344a58-a404-11f0-9259-a63b67f20b27/32/1024x576_2199524/index.m3u8
 
 # Weather
 
@@ -312,13 +324,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 # Sport
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="" group-title="Sport",Dubai Sports 3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
@@ -569,6 +581,9 @@ http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png" tvg-id="TSN.5.ca2" group-title="Sport",TSN 5
 http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Drone TV
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/7222152a-f3e4-49c2-8f17-53d27c38f07a/3.m3u8
 
 # Kids
 
@@ -850,13 +865,13 @@ https://tvpass.org/live/HallmarkDrama/sd
 #EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" group-title="Entertainment",Hallmark Mystery
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 
-#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Entertainment",HBO Eastern Feed SD
+#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Entertainment",HBO
 https://tvpass.org/live/HBOEast/sd
 
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" group-title="Entertainment",HBO 2 Eastern Feed SD
+#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="Entertainment",HBO 2
 https://tvpass.org/live/HBO2East/sd
 
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" group-title="Entertainment",HBO Comedy HD
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" group-title="Entertainment",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/sd
 
 #EXTINF:-1 tvg-id="hbo-family-eastern-feed" group-title="Entertainment",HBO Family
@@ -1044,6 +1059,16 @@ http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="CTV DRAMA Channel SD.ca" group-title="Entertainment",CTV Drama
 http://38.143.48.212:9981/stream/channelid/133843306?profile=pass
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/MkwsF0ws/6379fc45981d34a3b4d2dfc18e4a3c2b.jpg" group-title="Entertainment", The Golden Girls
+#EXTVLCOPT:network-caching=2000
+http://cord-cutter.net:8080/hq3y4G/234247/120948
+
+#EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c-gb" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="SOUTH PARK" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK (GB)
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+
+#EXTINF:-1 channel-id="62bdb1c5e25122000798ac79-ca" tvg-id="62bdb1c5e25122000798ac79" tvg-chno="120" tvg-name="SOUTH PARK" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK (CA)
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 
 # Music
 
