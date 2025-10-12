@@ -17,13 +17,13 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
+#EXTINF:-1 tvg-id="Tshwane TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="1 KZN.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
+#EXTINF:-1 tvg-id="1 KZN.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FAITH.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Entertainment;Religious",Faith TV
+#EXTINF:-1 tvg-id="FAITH.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Entertainment;Religious",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cape Town TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
