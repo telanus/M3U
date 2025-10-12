@@ -688,7 +688,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Anime",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
 
-#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Anime",Anime All Day
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Anime",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png"  group-title="Anime", Sailor Moon
