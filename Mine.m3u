@@ -854,10 +854,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Entertainment", Star Trek: Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7
 
-#EXTINF:-1 tvg-id="66601d838ce3110008a9d7bf" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" group-title="Sci-Fi",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="66601d838ce3110008a9d7bf" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" group-title="Entertainment",Star Trek: The Next Generation
 https://jmp2.uk/plu-66601d838ce3110008a9d7bf.m3u8
 
-#EXTINF:-1 tvg-id="66601e338ea5560008f7820e" tvg-logo="https://images.pluto.tv/channels/66601e338ea5560008f7820e/colorLogoPNG.png" group-title="Sci-Fi",Star Trek: The Original Series
+#EXTINF:-1 tvg-id="66601e338ea5560008f7820e" tvg-logo="https://images.pluto.tv/channels/66601e338ea5560008f7820e/colorLogoPNG.png" group-title="Entertainment",Star Trek: The Original Series
 https://jmp2.uk/plu-66601e338ea5560008f7820e.m3u8
 
 #EXTINF:-1 tvg-id="Star.Trek.Deep.Space.Nine.us" channel-id="pluto-65c69bbfd77d450008c7ffee" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" tvg-chno="855" group-title="Entertainment" , Star Trek Deep Space Nine
