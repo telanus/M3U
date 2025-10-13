@@ -17,13 +17,13 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="Tshwane TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
+#EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="1 KZN.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
+#EXTINF:-1 tvg-id="1 KZN.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FAITH.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Entertainment;Religious",Faith TV
+#EXTINF:-1 tvg-id="FAITH.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Cape Town TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
@@ -44,7 +44,7 @@ https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Comedy
 https://ov.ottera.tv/channels/alt_com/master2300000.m3u8;session=alt_com
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment;Religious",Afroland Romance
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Romance
 https://ov.ottera.tv/channels/alt_rom/master2300000.m3u8;session=alt_rom
 
 #EXTINF:-1 tvg-id="AfrolandCrime.za"  group-title="Entertainment",Afroland Crime
@@ -61,6 +61,7 @@ https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 
 #EXTINF:-1 tvg-id="MpumaKapaTV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment",Mpuma Kapa TV
 https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
+
 
 # News
 
@@ -479,7 +480,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="Trace Sport Stars.uk" tvg-logo="https://trace.company/wp-content/uploads/2022/12/TraceSportStars_Logo_Colour_578x278.png" group-title="Sport",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",GolfPass
+#EXTINF:-1 tvg-country="US"  group-title="Sport",GolfPass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65493029ab052400089e9d2f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291881-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc355a72-e401-4038-a2fd-7378aedc3a6f
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sport",BeIN Sports XTRA
@@ -641,6 +642,15 @@ http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/7222152a-f3e4-49c2-8f17-53d27c38f07a/3.m3u8
 
+#EXTINF:-1 tvg-id="66fd394e9269330008413302" tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png" group-title="Sports",AWSN
+https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
+
+#EXTINF:-1 tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+#EXTINF:-1 tvg-id="65265b58bbd2d000089ceff5" tvg-logo="https://images.pluto.tv/channels/65265b58bbd2d000089ceff5/colorLogoPNG.png" group-title="Sports",PGA TOUR
+https://jmp2.uk/plu-65265b58bbd2d000089ceff5.m3u8
+
 # Kids
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Junior
@@ -727,6 +737,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids", Forever Kids
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc021c06-a790-11f0-b4ff-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c812799e-d873-441b-8eba-730edbe0f3dc&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="62ea3ec626dc1900078e9f26"tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
+https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
+
+#EXTINF:-1 tvg-id="66ebf4a88131f10008b74739" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids",Pokémon
+https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
+
 #Anime
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Anime",Crunchyroll
@@ -756,6 +772,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG_1748796689310.png" group-title="Anime", Pluto TV Anime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc02e2a8-a790-11f0-8aee-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6536b5c9-b706-4b04-a1f0-0565e7287be5&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1"tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png" group-title="Anime",ANIME x HIDIVE
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+
 #Entertainment
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="Entertainment",ITV2
@@ -781,6 +800,15 @@ https://tvpass.org/live/FXXEast/sdv
 
 #EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" group-title="Entertainment",ION
 https://tvpass.org/live/IONTVEast/sd
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/44L0PIfgTmwN8g==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",ION
+https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="684167" tvg-logo="https://canvas-lb.tubitv.com/opts/0e6dyfopOhknOQ==/b74f76d9-1cd3-4ff8-861a-c4613ef3ca3e/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",ION Mystery
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",ION Plus
+https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MeTV Wjlp New Jerseynew York SD" group-title="Entertainment",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
@@ -825,6 +853,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Entertainment", Star Trek: Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7
+
+#EXTINF:-1 tvg-id="66601d838ce3110008a9d7bf" tvg-logo="https://images.pluto.tv/channels/66601d838ce3110008a9d7bf/colorLogoPNG.png" group-title="Sci-Fi",Star Trek: The Next Generation
+https://jmp2.uk/plu-66601d838ce3110008a9d7bf.m3u8
+
+#EXTINF:-1 tvg-id="66601e338ea5560008f7820e" tvg-logo="https://images.pluto.tv/channels/66601e338ea5560008f7820e/colorLogoPNG.png" group-title="Sci-Fi",Star Trek: The Original Series
+https://jmp2.uk/plu-66601e338ea5560008f7820e.m3u8
 
 #EXTINF:-1 tvg-id="Star.Trek.Deep.Space.Nine.us" channel-id="pluto-65c69bbfd77d450008c7ffee" tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" tvg-chno="855" group-title="Entertainment" , Star Trek Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e
@@ -1210,3 +1244,4 @@ https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
+
