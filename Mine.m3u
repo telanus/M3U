@@ -20,16 +20,16 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="1 KZN.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FAITH.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Cape Town TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Soweto TV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment",Soweto TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment",Soweto TV
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist_b480000.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS English
@@ -47,19 +47,19 @@ https://ov.ottera.tv/channels/alt_com/master2300000.m3u8;session=alt_com
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Romance
 https://ov.ottera.tv/channels/alt_rom/master2300000.m3u8;session=alt_rom
 
-#EXTINF:-1 tvg-id="AfrolandCrime.za"  group-title="Entertainment",Afroland Crime
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  group-title="Entertainment",Afroland Crime
 https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
 
-#EXTINF:-1 tvg-id="Afroland Drama"  group-title="Entertainment",Afroland Drama
+#EXTINF:-1 tvg-id="24.7.Dummy.us"  group-title="Entertainment",Afroland Drama
 https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
 
-#EXTINF:-1 tvg-id="AfrolandNollywood.za" group-title="Entertainment",Afroland Nollywood
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Nollywood
 https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
 
-#EXTINF:-1 tvg-id="AfrolandTV.za" group-title="Entertainment",Afroland TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 
-#EXTINF:-1 tvg-id="MpumaKapaTV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment",Mpuma Kapa TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment",Mpuma Kapa TV
 https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
 
 
@@ -172,7 +172,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 # Documentaries
 
-#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Travel",4K Travel TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Documentaries",4K Travel TV
 https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary
@@ -1244,4 +1244,3 @@ https://tvpass.org/live/MTVEast/sd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
 https://tvpass.org/live/VH1East/sd
-
