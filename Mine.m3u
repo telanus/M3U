@@ -314,7 +314,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/4d111ae6-b6de-4bc4-9e01-59fb7180ca8f/3.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FashionTV (Ukraine)
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/fashiontvua/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Declassified
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaf9cf1bdc500073a8bcb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df76-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=77b58119-8b6e-403d-b5dd-1096e48e0c09
@@ -363,13 +363,13 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_c
 https://tvpass.org/live/Motortrend/sd
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Motorsport.tv
-https://7daa9e4f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/513f7ddc-51fc-491e-a723-1cfd14d7c48f/2.m3u8
+
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Motorvision
-https://stream.ads.ottera.tv/cl/251008d3iv2h53hf3756rrik1g/960x540_1927200_1_f.m3u8?i=906_2020
+
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Automotive",Nitro Circus TV
-https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/6a344a58-a404-11f0-9259-a63b67f20b27/32/1024x576_2199524/index.m3u8
+
 
 # Weather
 
@@ -642,14 +642,14 @@ http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/7222152a-f3e4-49c2-8f17-53d27c38f07a/3.m3u8
 
-#EXTINF:-1 tvg-id="66fd394e9269330008413302" tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png" group-title="Sports",AWSN
-https://jmp2.uk/plu-66fd394e9269330008413302.m3u8
+#EXTINF:-1 tvg-id="66fd394e9269330008413302" tvg-logo="https://images.pluto.tv/channels/66fd394e9269330008413302/colorLogoPNG_1748591008644.png" group-title="Sport",AWSN
+
 
 #EXTINF:-1 tvg-id="647f07e74cfc2c0008a2e557" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
-https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
 
 #EXTINF:-1 tvg-id="65265b58bbd2d000089ceff5" tvg-logo="https://images.pluto.tv/channels/65265b58bbd2d000089ceff5/colorLogoPNG.png" group-title="Sports",PGA TOUR
-https://jmp2.uk/plu-65265b58bbd2d000089ceff5.m3u8
+
 
 # Kids
 
