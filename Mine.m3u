@@ -38,6 +38,15 @@ https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS South Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="afrokiddos.za" group-title="Kids",AfroKiddos
+https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Nolly Africa
+https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment",Platinum North West TV
+https://cdn.freevisiontv.co.za/sttv/smil:pnwtv.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Black Experience
 https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
 
