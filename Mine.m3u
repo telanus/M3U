@@ -17,6 +17,15 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",SuperSport Schools
+https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SABC Education.za" tvg-logo="" group-title="Entertainment",SABC Education
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
+https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
@@ -652,6 +661,9 @@ https://nl00.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo_2025.jpg",JSport 4
 https://nl00.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",FIFA+ US
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 # Kids
 
