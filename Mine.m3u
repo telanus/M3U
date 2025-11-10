@@ -139,7 +139,7 @@ https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 https://tvpass.org/live/WNET/sd
 
 #EXTINF:-1 tvg-id="ABC.(WMAR-TV).Baltimore,.MD.us" group-title="News",ABC (WMAR-TV) Baltimore, MD
-https://content-ausw2-up-1.uplynk.com/channel/aba0442e0d394f5791801e080ff51849/d.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=&ad.cust_params=%26inv%3Dss%3A%20on-domain%3A%20ew%20scripps%3A%20wmar%3A%20desktop%3A%20unknown%3A%20web%3A%20live%26user_id%3Dundefined%26pxconfig%3Dweb-live&pbs=e72da0aac4334b7a83fc0727af611136
+https://livetv-fa.tubi.video/wmar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION)
 https://tvpass.org/live/WPIX/sd
