@@ -126,10 +126,10 @@ https://tvpass.org/live/WABCDT1/sd
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" group-title="News",CBS (WCBS) New York, NY
 https://tvpass.org/live/WCBSDT1/sd
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" ,FOX (WNYW) New York, NY
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us"  group-title="News",FOX (WNYW) New York, NY
 https://tvpass.org/live/WNYWDT1/sd
 
-#EXTINF:-1 tvg-id="KMSPDT1.us@SD" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="General",FOX 9 ST Paul Minneapolis MN (KMSP)
+#EXTINF:-1 tvg-id="KMSPDT1.us@SD" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP)
 https://livetv-fa.tubi.video/kmsp/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY
