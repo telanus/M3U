@@ -102,50 +102,11 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="Russia Today.za" group-title="News",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" group-title="News",ABC (KABC) Los Angeles
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" group-title="News",CBS (KCBS) Los Angeles
-https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-
-#EXTINF:-1 tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us" group-title="News",CW (KFMB-TV2) San Diego
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" group-title="News",NBC (KNBC) Los Angeles
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" group-title="News",FOX (KTTV) Los Angeles
-https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
-
-#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" group-title="News",CW (WDCW) District of Columbia
-https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="News",ABC (WABC) New York, NY
-https://tvpass.org/live/WABCDT1/sd
-
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" group-title="News",CBS (WCBS) New York, NY
-https://tvpass.org/live/WCBSDT1/sd
-
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us"  group-title="News",FOX (WNYW) New York, NY
-https://tvpass.org/live/WNYWDT1/sd
-
 #EXTINF:-1 tvg-id="KMSPDT1.us@SD" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP)
 https://livetv-fa.tubi.video/kmsp/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY
-https://tvpass.org/live/WNBCDT1/sd
-
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY SD" group-title="News",NBC (WNBC) New York, NY (Alt)
-https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS (WNET) New York, NY SD" group-title="News",PBS (WNET) New York, NY
-https://tvpass.org/live/WNET/sd
-
 #EXTINF:-1 tvg-id="ABC.(WMAR-TV).Baltimore,.MD.us" group-title="News",ABC (WMAR-TV) Baltimore, MD
 https://livetv-fa.tubi.video/wmar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="News",WPIX New York (SUPERSTATION)
-https://tvpass.org/live/WPIX/sd
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -156,29 +117,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #EXTINF:-1 tvg-id="RTV Noord.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht
 https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" group-title="News",Bloomberg TV
-https://tvpass.org/live/BloombergTV/sd
-
-#EXTINF:-1 tvg-id="CNN.International.us2" group-title="News",CNN US
-https://tvpass.org/live/CNN/sd
-
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" group-title="News",Fox Business
-https://tvpass.org/live/FoxBusiness/sd
-
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" group-title="News",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
-
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Africanews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
 #EXTINF:-1 tvg-id="Al.Jazeera.za" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC.HD.us2" group-title="News",MSNBC USA
-https://tvpass.org/live/MSNBC/sd
-
-#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" group-title="News",NewsMax TV
-https://tvpass.org/live/NewsmaxTV/sd
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
@@ -198,7 +141,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 # Documentaries
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Documentaries",4K Travel TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -208,18 +151,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u
 
 #EXTINF:-1 tvg-id="Revry.distro" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Lifestyle",Revry
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet US East SD" group-title="Documentaries",Animal Planet
-https://tvpass.org/live/AnimalPlanetEast/sd
-
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" group-title="Documentaries",Food Network
-https://tvpass.org/live/FoodNetworkEast/sd
-
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" group-title="Documentaries",National Geographic
-https://tvpass.org/live/NationalGeographicEast/sd
-
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" group-title="Documentaries",National Geographic Wild
-https://tvpass.org/live/NationalGeographicWildEast/sd
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
@@ -231,76 +162,19 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/LJJ9gNW/images.png" group-title="Fashion",FTV Swimwear
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FashionTV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FTV Mid-night Secrets
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="plex.tv.Documentary+.plex" group-title="Documentaries",Documentary+
 https://jmp2.uk/stvp-CABC2300019UD
 
 #EXTINF:-1 tvg-id="plex.tv.True.History.plex" group-title="Documentaries",True History
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" group-title="Documentaries",Crime & Investigation Network
-https://tvpass.org/live/CrimePlusInvestigation/sd
-
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" group-title="Documentaries",Destination America
-https://tvpass.org/live/DestinationAmerica/sd
-
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" group-title="Documentaries",Discovery Channel
-https://tvpass.org/live/DiscoveryChannelEast/sd
-
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"group-title="Documentaries",Discovery Family Channel
-https://tvpass.org/live/DiscoveryFamily/sd
-
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" group-title="Documentaries",Discovery Life Channel
-https://tvpass.org/live/DiscoveryLife/sd
-
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" group-title="Documentaries",E! Entertainment
-https://tvpass.org/live/EEast/sd
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" group-title="Documentaries",History Channel
-https://tvpass.org/live/HistoryEast/sd
-
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN SD" group-title="Documentaries",HLN
-https://tvpass.org/live/HLN/sd
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" group-title="Documentaries",Investigation Discovery
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
-
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" group-title="Lifestyle",Lifetime Network
-https://tvpass.org/live/LifetimeEast/sd
-
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" group-title="Lifestyle",Oprah Winfrey Network
-https://tvpass.org/live/OWNEast/sd
-
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" group-title="Documentaries",Outdoor Channel
-https://tvpass.org/live/OutdoorChannel/sd
-
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" group-title="Documentaries",Oxygen
-https://tvpass.org/live/OxygenEast/sd
-
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" group-title="Documentaries",ReelzChannel
-https://tvpass.org/live/Reelz/sd
-
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" group-title="Documentaries",Science
-https://tvpass.org/live/Science/sd
-
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" group-title="Documentaries",The Cooking Channel
-https://tvpass.org/live/CookingChannel/sd
-
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" group-title="Documentaries",TLC
-https://tvpass.org/live/TLCEast/sd
-
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" group-title="Documentaries",Travel
-https://tvpass.org/live/TravelChannelEast/sd
-
-#EXTINF:-1 tvg-id="Vice.us2" group-title="Documentaries",VICE
-https://tvpass.org/live/VICETV/sd
 
 #EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Documentaries",Ghost Hunters Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=733471ce-0ac1-447e-9326-012361ee2487
@@ -381,9 +255,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-id="plex.tv.SPEEDVISION.plex" group-title="Automotive",Speedvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_channelId=99951268
 
-#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" group-title="Automotive",Motor Trend HD
-https://tvpass.org/live/Motortrend/sd
-
 
 # Weather
 
@@ -403,75 +274,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network USA SD" group-title="Sport",CBS Sports Network USA
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="Sport",ESPN
-https://tvpass.org/live/ESPN/sd
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Sport",ESPN2
-https://tvpass.org/live/ESPN2/sd
-
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Sport",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
-
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Sport",Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
-
-#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" group-title="Sport",Golf Channel USA
-https://tvpass.org/live/GolfChannel/sd
-
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="Sport",NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/sd
-
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Sport",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/sd
-
-#EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" group-title="Sport",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/sd
-
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Sport",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/sd
-
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" group-title="Sport",New England Sports Network
-https://tvpass.org/live/new-england-sports-network/sd
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" group-title="Sport",The Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
-
-#EXTINF:-1 tvg-id="TSN.1.ca2" tgroup-title="Sport",TSN 1
-https://tvpass.org/live/tsn1/sd
-
-#EXTINF:-1 tvg-id="TSN.2.ca2" group-title="Sport",TSN 2
-https://tvpass.org/live/tsn2/sd
-
-#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="Sport",TSN 3
-https://tvpass.org/live/tsn3/sd
-
-#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="Sport",TSN 4
-https://tvpass.org/live/tsn4/sd
-
-#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="Sport",TSN 5
-https://tvpass.org/live/tsn5/sd
-
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-title="Sport",ESPN News
-https://tvpass.org/live/ESPNews/sd
-
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" group-title="Sport",ESPN U
-https://tvpass.org/live/ESPNU/sd
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="Entertainment",ESPN 2
-https://tvpass.org/live/ESPN2/sd
-
-#EXTINF:-1 tvg-id="FanDuel Sports Indiana.us" group-title="Sport",Fanduel Sports Network Indiana
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us" group-title="Sport",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us" group-title="Sport",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",FanDuel TV Extra
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e11de684-91ab-43d6-a2ba-b61881026b87
@@ -508,72 +310,6 @@ https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.NHRA.TV.plex" group-title="Sport",NHRA TV
 https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
-
-#EXTINF:-1 tvg-id="ACC.Network.us2" group-title="Sport",ACC Network
-https://tvpass.org/live/ACCNetwork/sd
-
-#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" group-title="Sport",Altitude Sports Denver
-https://tvpass.org/live/altitude-sports-denver/sd
-
-#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="Sport",Big Ten Network
-https://tvpass.org/live/BTN/sd
-
-#EXTINF:-1 tvg-id="CHSN.Chicago.Sports.Network.us2" group-title="Sport",Chicago Sports Network
-https://tvpass.org/live/chicago-sports-network/sd
-
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" group-title="Sport",Marquee Sports Network
-https://tvpass.org/live/marquee-sports-network/sd
-
-#EXTINF:-1 tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" group-title="Sport",Midatlantic Sports Network
-https://tvpass.org/live/midatlantic-sports-network/sd
-
-#EXTINF:-1 tvg-id="MLB.Network.HD.us2" group-title="Sport",MLB Network
-https://tvpass.org/live/MLBNetwork/sd
-
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.HD.us2" group-title="Sport",Monumental Sports Network
-https://tvpass.org/live/monumental-sports-network/sd
-
-#EXTINF:-1 tvg-id="MSG.National.us2" group-title="Sport",MSG Madison Square Gardens
-https://tvpass.org/live/msg-madison-square-gardens/sd
-
-#EXTINF:-1 tvg-id="MSG.Plus.us2" group-title="Sport",MSG Plus
-https://tvpass.org/live/msg-plus/sd
-
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" group-title="Sport",SEC Network
-https://tvpass.org/live/SECN/sd
-
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" group-title="Sport",SNY Sportsnet New York Comcast
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-
-#EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" group-title="Sport",Space City Home Network
-https://tvpass.org/live/space-city-home-network/sd
-
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" group-title="Sport",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/sd
-
-#EXTINF:-1 tvg-id="spectrum-sportsnet" group-title="Sport",Spectrum Sportsnet Lakers
-https://tvpass.org/live/spectrum-sportsnet/sd
-
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" group-title="Sport",Sportsnet (East)
-https://tvpass.org/live/sportsnet-east/sd
-
-#EXTINF:-1 tvg-id="sportsnet-360" group-title="Sport",Sportsnet 360
-https://tvpass.org/live/sportsnet-360/sd
-
-#EXTINF:-1 tvg-id="sportsnet-one" group-title="Sport",Sportsnet One
-https://tvpass.org/live/sportsnet-one/sd
-
-#EXTINF:-1 tvg-id="sportsnet-ontario" group-title="Sport",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/sd
-
-#EXTINF:-1 tvg-id="sportsnet-pacific" group-title="Sport",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/sd
-
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh" group-title="Sport",Sportsnet Pittsburgh
-https://tvpass.org/live/sportsnet-pittsburgh/sd
-
-#EXTINF:-1 tvg-id="sportsnet-west" group-title="Sport",Sportsnet (West)
-https://tvpass.org/live/sportsnet-west/sd
 
 #EXTINF:-1 tvg-id="UK:.FIFA+.en" group-title="Sport",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -670,15 +406,6 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 # Kids
 
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" group-title="Kids",Disney Junior
-https://tvpass.org/live/DisneyJuniorEast/sd
-
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" group-title="Kids",Disney
-https://tvpass.org/live/DisneyChannelEast/sd
-
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" group-title="Kids",MeTV Toons
-https://tvpass.org/live/metv-toons/sd
-
 #EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
 
@@ -696,27 +423,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",PBS Kids Hawaii
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-
-#EXTINF:-1 tvg-id="nick-jr-east" group-title="Kids",Nick Jr.
-https://tvpass.org/live/NickJrEast/sd
-
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" group-title="Kids",Nickelodeon
-https://tvpass.org/live/NickelodeonEast/sd
-
-#EXTINF:-1 tvg-id="nicktoons-east" group-title="Kids",Nicktoons
-https://tvpass.org/live/NicktoonsEast/sd
-
-#EXTINF:-1 tvg-id="teennick-eastern" group-title="Kids",TeenNick
-https://tvpass.org/live/TeenNickEast/sd
-
-#EXTINF:-1 tvg-id="boomerang" group-title="Kids",Boomerang
-https://tvpass.org/live/Boomerang/sd
-
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" group-title="Kids",Cartoon Network
-https://tvpass.org/live/CartoonNetworkEast/sd
-
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" group-title="Kids",Disney XD
-https://tvpass.org/live/DisneyXDEast/sd
 
 #EXTINF:-1 tvg-id="ABC Kids / ABC Family.au"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
@@ -803,18 +509,6 @@ https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-id="RTV Oost.nl" group-title="Entertainment",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.HD.us2" group-title="Entertainment",FX Movie Channel
-https://tvpass.org/live/FXMovieChannel/sd
-
-#EXTINF:-1 tvg-id="FX Networks East Coast SD" group-title="Entertainment",FX Networks
-https://tvpass.org/live/FXEast/sd
-
-#EXTINF:-1 tvg-id="FXX.HD.us2" group-title="Entertainment",FXX USA
-https://tvpass.org/live/FXXEast/sdv
-
-#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" group-title="Entertainment",ION
-https://tvpass.org/live/IONTVEast/sd
-
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/44L0PIfgTmwN8g==/d7bf80e8-e8bc-4883-9c2b-551d1d7ab80c/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",ION
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
 
@@ -823,12 +517,6 @@ https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc0
 
 #EXTINF:-1 tvg-id="684165" tvg-logo="https://canvas-lb.tubitv.com/opts/kgPnfzyjJ7Ef4g==/979fd7e0-d2df-4c2b-90d0-af690c9405cb/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",ION Plus
 https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MeTV Wjlp New Jerseynew York SD" group-title="Entertainment",MeTV
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="Entertainment",Syfy
-https://tvpass.org/live/SyfyEast/sd
 
 #EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-name="" group-title="Entertainment",BBC Two
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb_output_0.m3u8?session=eDJ6f6agZPePiFAmiGKUku
@@ -898,132 +586,6 @@ https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Entertainment",Revry
 https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
 
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" group-title="Entertainment",A&E
-https://tvpass.org/live/AEEast/sd
-
-#EXTINF:-1 tvg-id="amc-eastern-feed" group-title="Entertainment",AMC
-https://tvpass.org/live/AMCEast/sd
-
-#EXTINF:-1 tvg-id="american-heroes-channel" group-title="Entertainment",American Heroes Channel
-https://tvpass.org/live/AmericanHeroesChannel/sd
-
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" group-title="Entertainment",BBC America
-https://tvpass.org/live/BBCAmericaEast/sd
-
-#EXTINF:-1 tvg-id="bet-eastern-feed" group-title="Entertainment",BET
-https://tvpass.org/live/BETEast/sd
-
-#EXTINF:-1 tvg-id="BET.Her.us" group-title="Entertainment",BET Her
-https://tvpass.org/live/BETHerEast/sd
-
-#EXTINF:-1 tvg-id="Bravo USA Eastern Feed SD" group-title="Entertainment",Bravo
-https://tvpass.org/live/BravoEast/sd
-
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" group-title="Entertainment",Cinemax
-https://tvpass.org/live/CinemaxEast/sd
-
-#EXTINF:-1 tvg-id="CMT.HD.us2"group-title="Entertainment",CMT
-https://tvpass.org/live/CMTEast/sd
-
-#EXTINF:-1 tvg-id="cnbc-usa" group-title="Entertainment",CNBC
-https://tvpass.org/live/CNBC/sd
-
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed"group-title="Entertainment",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/sd
-
-#EXTINF:-1 tvg-id="freeform-east-feed" group-title="Entertainment",Freeform
-https://tvpass.org/live/FreeformEast/sd
-
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" group-title="Entertainment",FUSE TV
-https://tvpass.org/live/FuseEast/sd
-
-#EXTINF:-1 tvg-id="fyi-usa-eastern" group-title="Entertainment",FYI USA
-https://tvpass.org/live/FYIEast/sd
-
-#EXTINF:-1 tvg-id="game-show-network-east" group-title="Entertainment",Game Show Network
-https://tvpass.org/live/game-show-network-east/sd
-
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" group-title="Entertainment",Hallmark
-https://tvpass.org/live/HallmarkChannelEast/sd
-
-#EXTINF:-1 tvg-id="hallmark-family-hd" group-title="Entertainment",Hallmark Family
-https://tvpass.org/live/HallmarkDrama/sd
-
-#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" group-title="Entertainment",Hallmark Mystery
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
-
-#EXTINF:-1 tvg-id="hbo-eastern-feed" group-title="Entertainment",HBO
-https://tvpass.org/live/HBOEast/sd
-
-#EXTINF:-1 tvg-id="HBO2.HD.us2" group-title="Entertainment",HBO 2
-https://tvpass.org/live/HBO2East/sd
-
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" group-title="Entertainment",HBO Comedy
-https://tvpass.org/live/HBOComedyEast/sd
-
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" group-title="Entertainment",HBO Family
-https://tvpass.org/live/HBOFamilyEast/sd
-
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" group-title="Entertainment",HBO Signature
-https://tvpass.org/live/HBOSignatureEast/sd
-
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" group-title="Entertainment",HBO Zone
-https://tvpass.org/live/HBOZoneEast/sd
-
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" group-title="Lifestyle",HGTV USA
-https://tvpass.org/live/HGTVEast/sd
-
-#EXTINF:-1 tvg-id="independent-film-channel-us" group-title="Entertainment",Independent Film Channel US
-https://tvpass.org/live/IFCEast/sd
-
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East SD" group-title="Entertainment",LOGO
-https://tvpass.org/live/LogoEast/sd
-
-#EXTINF:-1 tvg-id="moremax-eastern" group-title="Entertainment",MoreMax
-https://tvpass.org/live/MoreMaxEast/sd
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",MovieMax
-https://tvpass.org/live/MovieMaxEast/sd
-
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" group-title="Entertainment",Showtime
-https://tvpass.org/live/ShowtimeEast/sd
-
-#EXTINF:-1 tvg-id="showtime-2-eastern" group-title="Entertainment",Showtime 2
-https://tvpass.org/live/Showtime2East/sd
-
-#EXTINF:-1 tvg-id="starz-eastern" group-title="Entertainment",Starz
-https://tvpass.org/live/StarzEast/sd
-
-#EXTINF:-1 tvg-id="sundancetv-usa-east" group-title="Entertainment",SundanceTV USA
-https://tvpass.org/live/SundanceTVEast/sd
-
-#EXTINF:-1 tvg-id="tbs-east" group-title="Entertainment",TBS
-https://tvpass.org/live/TBSEast/sd
-
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" group-title="Entertainment",Telemundo
-https://tvpass.org/live/TelemundoEast/sd
-
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" group-title="Entertainment",TMC
-https://tvpass.org/live/TheMovieChannelEast/sd
-
-#EXTINF:-1 tvg-id="tnt-eastern-feed" group-title="Entertainment",TNT
-https://tvpass.org/live/TNTEast/sd
-
-#EXTINF:-1 tvg-id="trutv-usa-eastern" group-title="Entertainment",truTV USA Eastern
-https://tvpass.org/live/truTVEast/sd
-
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" group-title="Entertainment",Turner Classic Movies USA
-https://tvpass.org/live/TCMEast/sd
-
-#EXTINF:-1 tvg-id="tv-land-eastern" group-title="Entertainment",TV Land
-https://tvpass.org/live/tv-land-eastern/sd
-
-#EXTINF:-1 tvg-id="tv-one" group-title="Entertainment",TV One
-https://tvpass.org/live/TVOne/sd
-
-#EXTINF:-1 tvg-id="usa-network-east-feed" group-title="Entertainment",USA Network
-https://tvpass.org/live/USANetworkEast/sd
-
 #EXTINF:-1 tvg-id="ABC Entertains.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png" group-title="Entertainment",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
@@ -1044,9 +606,6 @@ http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40655.ts
 
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-4-ca.png" group-title="Entertainment",Crave 4
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40653.ts
-
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed"group-title="Entertainment",Food Network USA
-https://tvpass.org/live/FoodNetworkEast/sd
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" group-title="Entertainment",WeTV
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8
@@ -1242,12 +801,3 @@ https://jmp2.uk/str-6427.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Music",TRACE Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mtv-2-east" group-title="Music",MTV 2
-https://tvpass.org/live/mtv-2-east/sd
-
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" group-title="Music",MTV USA
-https://tvpass.org/live/MTVEast/sd
-
-#EXTINF:-1 tvg-id="vh1-eastern-feed" group-title="Music",VH1
-https://tvpass.org/live/VH1East/sd
