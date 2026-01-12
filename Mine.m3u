@@ -138,6 +138,33 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2M
 #EXTINF:-1 tvg-id="",Global News BC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11
 
+#EXTINF:-1 tvg-id="cbn.news.us" group-title="News",CBN News
+https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/chunklist__1.m3u8
+
+#EXTINF:-1 tvg-id="wnyt.us" group-title="News",WNYT (NewsChannel 13)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sep/2a2d91da-bb34-4be5-8c52-ad4d26c84acf/48533157-d683-44fb-a402-790fb7dfa38d/6S1100K432AWS/SM/content.m3u8
+
+#EXTINF:-1 tvg-id="WABCDT1247News.us@SD" group-title="News",ABC News New York NY (WABC-TV)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+
+#EXTINF:-1 tvg-id="FLTV.us@SD" group-title="News",Fort Lauderdale FLTV
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMBCDT1.us@SD" group-title="News",KMBC-DT1
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+
+#EXTINF:-1 tvg-id="KMIZDT1.us@SD" group-title="News",KMIZ-DT1
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+
+#EXTINF:-1 tvg-id="KSHBDT1.us@SD" group-title="News",KSHB-DT1
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+
+#EXTINF:-1 tvg-id="KSMODT1.us@SD" group-title="News",KSMO-DT1
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+
+#EXTINF:-1 tvg-id="WLNYDT1.us@SD",WLNY-DT1
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
+
 # Documentaries
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Documentaries",4K Travel TV
@@ -403,6 +430,9 @@ https://nl00.utako.moe/js4/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",FIFA+ US
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-id="js4" tvg-logo="",Right Now TV
+https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/360/rightnowtvSCTE35.m3u8
 
 # Kids
 
@@ -769,6 +799,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Murder She Wrote
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",CBN Family
+https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/chunklist__1.m3u8
+
+#EXTINF:-1 tvg-id="KMBCDT2.us@SD" group-title="Entertainment",KMBC-DT2 (METV)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+
+#EXTINF:-1 tvg-id="KMCIDT2.us@SD",KMCI-DT1 (Bounce)
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 
 # Music
 
