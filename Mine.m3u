@@ -162,12 +162,10 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 #EXTINF:-1 tvg-id="KSMODT1.us@SD" group-title="News",KSMO-DT1
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 
-#EXTINF:-1 tvg-id="WLNYDT1.us@SD",WLNY-DT1
+#EXTINF:-1 tvg-id="WLNYDT1.us@SD" group-title="News",WLNY-DT1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 
 # Documentaries
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3193.DistroTv.in/en/1x1/208x208/test_pic1690462555214.webp" group-title="Documentaries",4K Travel TV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary
@@ -188,14 +186,8 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNXfMHS/dateline.png" group-title="Documentaries" tvg-id="Dateline247.us",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/LJJ9gNW/images.png" group-title="Fashion",FTV Swimwear
-
-
 #EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FashionTV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FTV Mid-night Secrets
-
 
 #EXTINF:-1 tvg-id="plex.tv.Documentary+.plex" group-title="Documentaries",Documentary+
 https://jmp2.uk/stvp-CABC2300019UD
