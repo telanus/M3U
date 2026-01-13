@@ -213,19 +213,13 @@ https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="UK:.Inside.Outside.be"" tvg-logo="https://img.platform.wurl.dev/channel/1907/lg/e72dd3/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Inside Outside
 https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UK:.The.Pet.Collective.be"" tvg-logo="https://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v2.png" group-title="Documentaries",The Pet Collective
-https://ec8e82aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UK:.Adventure.Earth.be" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1299-LG-Logo-PNG-100x100_v4.png" group-title="Documentaries",Adventure Earth
 https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.Originals.distro" tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bloomberg Originals
 https://c72595b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1301/lg/e3d391/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bondi Vet
-https://5fc0619ee52c4b329c74021080a23251.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_BondiVet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us",Bondi Rescue
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries"group-title="Documentaries",Bondi Rescue
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66166989635c7500084105a2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a45-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6764d2d1-b42f-4d3f-b861-f9d0d6aeaf33
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",QVC Japan
@@ -233,9 +227,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Declassified
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaf9cf1bdc500073a8bcb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df76-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=77b58119-8b6e-403d-b5dd-1096e48e0c09
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Busted at the Border
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9c4539183b00076a3875/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a46-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e4b92c7-1b9a-4ab6-82a0-3e2670ba5d18
 
 # Religious
 
@@ -485,6 +476,9 @@ https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 #EXTINF:-1 tvg-id="66ebf4a88131f10008b74739" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids",Pokémon
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 
+#EXTINF:-1 tvg-id="kiddies.za" group-title="Kids",Kiddies
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/d728b860-b892-4939-aab0-1833f9261090/source/index.m3u8
+
 #Anime
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Anime",Crunchyroll
@@ -508,14 +502,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime", Yu-Gi-Oh!
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc02205c-a790-11f0-acd9-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7aafd95-25de-423d-a3b9-0b32404faf5e&userId=&serverSideAds=true
 
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png" group-title="Anime", Lupin the 3rd
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc0220b6-a790-11f0-b3df-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b177d493-da2a-42f6-afcd-15a9584475e7&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG_1748796689310.png" group-title="Anime", Pluto TV Anime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62a2e8d8a1c8650007e95bac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc02e2a8-a790-11f0-8aee-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6536b5c9-b706-4b04-a1f0-0565e7287be5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1"tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png" group-title="Anime",ANIME x HIDIVE
-https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 
 #Entertainment
 
@@ -798,8 +786,11 @@ https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="KMBCDT2.us@SD" group-title="Entertainment",KMBC-DT2 (METV)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
-#EXTINF:-1 tvg-id="KMCIDT2.us@SD",KMCI-DT1 (Bounce)
+#EXTINF:-1 tvg-id="KMCIDT2.us@SD" group-title="Entertainment",KMCI-DT1 (Bounce)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+
+#EXTINF:-1 tvg-id="cafrica.tv.za" group-title="Entertainment",CAfica TV
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4627be24-6114-41a1-839e-6a99da3afe4c/source/index.m3u8
 
 # Music
 
