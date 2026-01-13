@@ -20,13 +20,13 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b5500
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",SuperSport Schools
 https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SABC Education.za" tvg-logo="" group-title="Entertainment",SABC Education
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="Entertainment",SABC Education
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
 https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Tshwane TV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
@@ -47,13 +47,13 @@ https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS South Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="afrokiddos.za" group-title="Kids",AfroKiddos
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",AfroKiddos
 https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Nolly Africa
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Nolly Africa
 https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment",Platinum North West TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Platinum North West TV
 https://cdn.freevisiontv.co.za/sttv/smil:pnwtv.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Black Experience
@@ -102,10 +102,10 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="Russia Today.za" group-title="News",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KMSPDT1.us@SD" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/HCfd9BV.png" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP)
 https://livetv-fa.tubi.video/kmsp/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WMAR-TV).Baltimore,.MD.us" group-title="News",ABC (WMAR-TV) Baltimore, MD
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",ABC (WMAR-TV) Baltimore, MD
 https://livetv-fa.tubi.video/wmar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News
@@ -120,7 +120,7 @@ https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Africanews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
-#EXTINF:-1 tvg-id="Al.Jazeera.za" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",DW English
@@ -144,25 +144,25 @@ https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGci
 #EXTINF:-1 tvg-id="wnyt.us" group-title="News",WNYT (NewsChannel 13)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sep/2a2d91da-bb34-4be5-8c52-ad4d26c84acf/48533157-d683-44fb-a402-790fb7dfa38d/6S1100K432AWS/SM/content.m3u8
 
-#EXTINF:-1 tvg-id="WABCDT1247News.us@SD" group-title="News",ABC News New York NY (WABC-TV)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",ABC News New York NY (WABC-TV)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="FLTV.us@SD" group-title="News",Fort Lauderdale FLTV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Fort Lauderdale FLTV
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KMBCDT1.us@SD" group-title="News",KMBC-DT1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KMBC-DT1
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 
-#EXTINF:-1 tvg-id="KMIZDT1.us@SD" group-title="News",KMIZ-DT1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KMIZ-DT1
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 
-#EXTINF:-1 tvg-id="KSHBDT1.us@SD" group-title="News",KSHB-DT1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KSHB-DT1
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 
-#EXTINF:-1 tvg-id="KSMODT1.us@SD" group-title="News",KSMO-DT1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KSMO-DT1
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 
-#EXTINF:-1 tvg-id="WLNYDT1.us@SD" group-title="News",WLNY-DT1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",WLNY-DT1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 
 # Documentaries
@@ -327,7 +327,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:- 1 tvg-id="SkySp.News.HD.uk" group-title="Sport",SKY SPORTS NEWS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115462
 
-#EXTINF:- 1 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENTS
+#EXTINF:- 1 tvg-id="24.7.Dummy.us" group-title="Sport",SKY SPORTS MAIN EVENTS
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
 
 #EXTINF:- 1 tvg-id="TNT.Sports.1.HD.uk" group-title="Sport",TNT SPORTS 1
@@ -348,7 +348,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="SkySp.Action.uk" group-title="Sport",SKY SPORTS ACTION
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115478
 
-#EXTINF:- 1 tvg-id="SkySp.Arena.uk" group-title="Sport",SKY SPORTS ARENA
+#EXTINF:- 1 tvg-id="24.7.Dummy.us" group-title="Sport",SKY SPORTS ARENA
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115480
 
 #EXTINF:- 1 tvg-id="SkySp.Cricket.uk" group-title="Sport",SKY SPORTS CRICKET
@@ -369,7 +369,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:- 1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492
 
-#EXTINF:- 1 tvg-id="SkySp.Racing.uk" group-title="Sport",SKY SPORTS RACING
+#EXTINF:- 1 tvg-id="24.7.Dummy.us" group-title="Sport",SKY SPORTS RACING
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115493
 
 #EXTINF:- 1 tvg-id="Premier Sports 1 HD.uk" group-title="Sport",PREMIER SPORTS 1
@@ -399,22 +399,22 @@ http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png" tvg-id="TSN.5.ca2" group-title="Sport",TSN 5
 http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 
-#EXTINF:-1 group-title="Sport" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo_2025.jpg",JSport 1
+#EXTINF:-1 group-title="Sport" tvg-id="24.7.Dummy.us" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo_2025.jpg",JSport 1
 https://nl00.utako.moe/js1/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo_2025.jpg",JSport 2
+#EXTINF:-1 group-title="Sport" tvg-id="24.7.Dummy.us" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo_2025.jpg",JSport 2
 https://nl00.utako.moe/js2/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo_2025.jpg",JSport 3
+#EXTINF:-1 group-title="Sport" tvg-id="24.7.Dummy.us" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo_2025.jpg",JSport 3
 https://nl00.utako.moe/js3/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo_2025.jpg",JSport 4
+#EXTINF:-1 group-title="Sport" tvg-id="24.7.Dummy.us" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo_2025.jpg",JSport 4
 https://nl00.utako.moe/js4/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",FIFA+ US
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="js4" tvg-logo="",Right Now TV
+#EXTINF:-1 group-title="Sport" tvg-id="24.7.Dummy.us" tvg-logo="",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/360/rightnowtvSCTE35.m3u8
 
 # Kids
@@ -470,13 +470,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids", Forever Kids
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=fc021c06-a790-11f0-b4ff-bec3820741bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c812799e-d873-441b-8eba-730edbe0f3dc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="62ea3ec626dc1900078e9f26"tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
+#EXTINF:-1 tvg-id="24.7.Dummy.us"t vg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
 https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 
 #EXTINF:-1 tvg-id="66ebf4a88131f10008b74739" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids",Pokémon
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 
-#EXTINF:-1 tvg-id="kiddies.za" group-title="Kids",Kiddies
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",Kiddies
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/d728b860-b892-4939-aab0-1833f9261090/source/index.m3u8
 
 #Anime
@@ -692,7 +692,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="Citytv Edmonton HDTV.ca" group-title="Entertainment",CityTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
 
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="CTV.(CKY).Winnipeg" group-title="Entertainment",CTV Winnipeg
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="24.7.Dummy.us" group-title="Entertainment",CTV Winnipeg
 http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76863/s76863_ll_h15_ab.png" tvg-id="CTV Comedy - East.ca" group-title="Entertainment",CTV Comedy
@@ -732,13 +732,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Pluto TV Comedy Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3d24b8e02600071fa296/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac25957-ab7a-4358-b0cd-9e596b2f1a6f
 
-#EXTINF:-1 tvg-id="PlutoTVCourtroom.us" group-title="Entertainment",Pluto TV Courtroom
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Pluto TV Courtroom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e927ebc2db99000787c00a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3681bac2-c906-4f96-a6ce-650e92a5ab2d
 
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us" group-title="Entertainment",Pluto TV Crime Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d26-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59a15527-cb90-4bf4-90ab-ec456c5d2df2
 
-#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" group-title="Entertainment",Pluto TV Documentaries
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Pluto TV Documentaries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87df87533d80008ab9b4c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d27-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff7033e4-b330-4a43-8d11-664c727998ff
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Pluto TV Drama Movies
@@ -783,13 +783,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",CBN Family
 https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/chunklist__1.m3u8
 
-#EXTINF:-1 tvg-id="KMBCDT2.us@SD" group-title="Entertainment",KMBC-DT2 (METV)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",KMBC-DT2 (METV)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
-#EXTINF:-1 tvg-id="KMCIDT2.us@SD" group-title="Entertainment",KMCI-DT1 (Bounce)
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",KMCI-DT1 (Bounce)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 
-#EXTINF:-1 tvg-id="cafrica.tv.za" group-title="Entertainment",CAfica TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",CAfica TV
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4627be24-6114-41a1-839e-6a99da3afe4c/source/index.m3u8
 
 # Music
