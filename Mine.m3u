@@ -170,7 +170,7 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",WLNY-DT1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 
-#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News" tvg-chno="2630" ,Sky News
+#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2630" ,Sky News
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66791555-41c1-417c-9282-c5ef39c78a15&userId=&serverSideAds=true
 
 # Documentaries
@@ -322,6 +322,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Automotive" ,Pluto TV Cars
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f37358a-6017-459c-8b38-a44ce3edb1c6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Motorvision.tv" tvg-logo="https://a.jsrdn.com/hls/22886/motorvision-tv/logo_20231219_220026_63.png" group-title="Automotive",Motorvision TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv/a.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=92944&ads.show_id=3369&ads.showCategories=IAB2&ads.episodeCategories=IAB2&ads.genre=Lifestyle%2CInfotainment%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Motorvision%20TV&ads.episodetitle=Motorvision%20TV&ads.keywords=Motorvision%2CMotor%2CCars%2CLuxury%2CSports%20Cars%2CCar%20History&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&version=12&id=1199&partner=distro&ads.islive=1&ads.streamtype=live&ads.vf=20251209
 
 # Weather
 
@@ -476,6 +479,9 @@ https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/360/rightnowtvSCTE35.m3
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",CAN TV
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/4c934263-7c5a-4b5b-9fe5-3cbdcd02b686/source/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sport",MUTV
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2242.ts
 
 #EXTINF:-1 tvg-id="681109b688b9d85d0938c6ba" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png" group-title="Sport" ",TennisChannel 2
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/681109b688b9d85d0938c6ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3de2edd2-644f-4f95-b218-7ca90838d76e&userId=&serverSideAds=true
@@ -1011,3 +1017,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-name="Classica" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Music" tvg-chno="4810" ,Classica
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=19b47e74-b8bc-437a-82d1-3c50f21f7540&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Trace.Latina" tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/logo_20231219_223517_68.png" group-title="Music",TRACE Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=86556&ads.show_id=3242&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CContemporary%20Hits%2FPop%2FTop%2040%2CReggae%2CHip%20Hop%20Music%2CSpanish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=TRACE%20Latina&ads.episodetitle=TRACE%20Latina&ads.keywords=Spanish%2CMusic%2CLatina%2CLatino%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209
