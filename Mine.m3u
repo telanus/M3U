@@ -170,7 +170,7 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",WLNY-DT1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 
-#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2630" ,Sky News
+#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News" tvg-chno="2630" ,Sky News
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66791555-41c1-417c-9282-c5ef39c78a15&userId=&serverSideAds=true
 
 # Documentaries
