@@ -488,6 +488,21 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sport" ,NBC Sports NOW
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cbc65fe2-8932-4650-8d69-98dd59160064&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="" group-title="Sport ",FOX Sports 1
+http://1tvnow.icu:8080/A0t5Ax/625375/46792
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="Sport",Fox Sports 2
+http://1tvnow.icu:8080/A0t5Ax/625375/1847
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sport",ESPN 2
+http://1tvnow.icu:8080/A0t5Ax/625375/2210
+
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sport",ESPN 1
+http://1tvnow.icu:8080/A0t5Ax/625375/14197
+
+#EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sport",ESPNU College Sports
+http://1tvnow.icu:8080/A0t5Ax/625375/10255
+
 # Kids
 
 #EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
@@ -585,6 +600,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Kids" tvg-chno="3910" ,Garfield and Friends
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=27bce3e1-7647-47cc-bc89-66740a698a03&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="" group-title="Kids",Disney Jr
+http://1tvnow.icu:8080/A0t5Ax/625375/41960
 
 #Anime
 
@@ -952,6 +970,54 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="5f4d878d3d19b30007d2e782" tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Entertainment" ,70s Cinema
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac09097a-59f7-42c8-9e0f-ecc0317e46ef&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="aande.us" group-title="Entertainment",A&E
+http://1tvnow.icu:8080/A0t5Ax/625375/59056
+
+#EXTINF:-1 tvg-id="abc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="Entertainment",ABC
+http://1tvnow.icu:8080/A0t5Ax/625375/22990
+
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-logo="" group-title="Entertainment",ActionMAX
+http://1tvnow.icu:8080/A0t5Ax/625375/21013
+
+#EXTINF:-1 tvg-id="adultswim.us" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="Entertainment",Adult Swim
+http://1tvnow.icu:8080/A0t5Ax/625375/11644
+
+#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Entertainment",AMC
+http://1tvnow.icu:8080/A0t5Ax/625375/18925
+
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-logo="" group-title="Entertainment",American Heroes Channel
+http://1tvnow.icu:8080/A0t5Ax/625375/10456
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="Entertainment",Animal Planet
+http://1tvnow.icu:8080/A0t5Ax/625375/17870
+
+#EXTINF:-1 tvg-id="antennatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="Entertainment",Antenna TV
+http://1tvnow.icu:8080/A0t5Ax/625375/20180
+
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-logo="" group-title="Entertainment",Aspire
+http://1tvnow.icu:8080/A0t5Ax/625375/21927
+
+#EXTINF:-1 tvg-id="axstv.us" tvg-logo="" group-title="Entertainment",AXS TV
+http://1tvnow.icu:8080/A0t5Ax/625375/48324
+
+#EXTINF:-1 tvg-id="bet.us" tvg-logo="" group-title="Entertainment",BET
+http://1tvnow.icu:8080/A0t5Ax/625375/46703
+
+#EXTINF:-1 tvg-id="betgospel.us" tvg-logo="" group-title="Entertainment",Bet Gospel
+http://1tvnow.icu:8080/A0t5Ax/625375/66080
+
+#EXTINF:-1 tvg-id="betsoul.us" tvg-logo="" group-title="Entertainment",BET Soul
+http://1tvnow.icu:8080/A0t5Ax/625375/21844
+
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-logo="" group-title="Entertainment",Bounce XL
+http://1tvnow.icu:8080/A0t5Ax/625375/48323
+
+#EXTINF:-1 tvg-id="bravo.us" " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="Entertainment",Bravo
+http://1tvnow.icu:8080/A0t5Ax/625375/20859
+
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-logo="" group-title="Entertainment",BUZZR
+http://1tvnow.icu:8080/A0t5Ax/625375/21896
 
 # Music
 
