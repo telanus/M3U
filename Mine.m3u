@@ -26,13 +26,19 @@ https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
 https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Religion",TBN Vetu
+https://sabconetatbn.cdn.mangomolo.com/tbn/smil:tbn.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Mpuma Kapa TV
+https://sabcmpumata.cdn.mangomolo.com/mpk/smil:mpk.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
@@ -77,8 +83,11 @@ https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment",Mpuma Kapa TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Mpuma Kapa TV
 https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Phuthuloha TV
+https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist.m3u8
 
 # News
 
@@ -1018,6 +1027,69 @@ http://1tvnow.icu:8080/A0t5Ax/625375/20859
 
 #EXTINF:-1 tvg-id="buzzertv.us" tvg-logo="" group-title="Entertainment",BUZZR
 http://1tvnow.icu:8080/A0t5Ax/625375/21896
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",CBS
+http://1tvnow.icu:8080/A0t5Ax/625375/21259
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Entertainment",Cinemax
+http://1tvnow.icu:8080/A0t5Ax/625375/13380
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-logo="" group-title="Entertainment",CMT
+http://1tvnow.icu:8080/A0t5Ax/625375/46706
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="Entertainment",CMT
+http://1tvnow.icu:8080/A0t5Ax/625375/10476
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="Entertainment",CNBC
+http://1tvnow.icu:8080/A0t5Ax/625375/9815
+
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="Entertainment",CNBC World
+http://1tvnow.icu:8080/A0t5Ax/625375/20860
+
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="Entertainment",Comedy Central
+http://1tvnow.icu:8080/A0t5Ax/625375/7466
+
+#EXTINF:-1 tvg-id="comet.us" tvg-logo="" group-title="Entertainment",Comet
+http://1tvnow.icu:8080/A0t5Ax/625375/66244
+
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="Entertainment",Cooking Channel
+http://1tvnow.icu:8080/A0t5Ax/625375/9229
+
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="Entertainment",Cozi
+http://1tvnow.icu:8080/A0t5Ax/625375/11868
+
+#EXTINF:-1 tvg-id="decadeswvah.us" " tvg-logo="https://decades.com/images/logo_tagline.png" group-title="Entertainment",Decades
+http://1tvnow.icu:8080/A0t5Ax/625375/20189
+
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-logo="https://fontmeme.com/images/destination-america-new-logo.png" group-title="Entertainment",Destination America
+http://1tvnow.icu:8080/A0t5Ax/625375/14222
+
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-logo="" group-title="Entertainment",Discovery Channel
+http://1tvnow.icu:8080/A0t5Ax/625375/46720
+
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="Entertainment",DISCOVERY FAMILY
+http://1tvnow.icu:8080/A0t5Ax/625375/10538
+
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-logo="https://logodix.com/logo/997920.png" group-title="Entertainment",Discovery Life
+http://1tvnow.icu:8080/A0t5Ax/625375/9861
+
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-logo="" group-title="Entertainment",Discovery Velocity
+http://1tvnow.icu:8080/A0t5Ax/625375/46212
+
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="Entertainment",Magnolia Network
+http://1tvnow.icu:8080/A0t5Ax/625375/10503
+
+#EXTINF:-1 tvg-id="dogtv.us" tvg-logo="" group-title="Entertainment",DOGTV
+http://1tvnow.icu:8080/A0t5Ax/625375/53539
+
+#EXTINF:-1 tvg-id="eentertainment.us" " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="Entertainment",E! Entertainment Television
+http://1tvnow.icu:8080/A0t5Ax/625375/11651
+
+#EXTINF:-1 tvg-id="epix.us" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Entertainment",EPIX
+http://1tvnow.icu:8080/A0t5Ax/625375/13214
+
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-logo="https://logodix.com/logo/1104724.png" group-title="Entertainment",Epix Drive IN
+http://1tvnow.icu:8080/A0t5Ax/625375/14193
 
 # Music
 
